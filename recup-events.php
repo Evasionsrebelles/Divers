@@ -28,29 +28,24 @@ $xpath = new DOMXPath($doc);
 
 // On cible les blocs d'événements (basé sur la structure de la page)
 // Note : Les classes CSS d'origine peuvent varier selon les mises à jour du site cible
-$articles = $xpath->query("//article[contains(@class, 'event')] | //li[contains(@class, 'event')]");
+$articles = $xpath->query("//div[contains(@class, 'cheapo-card')] | //div[contains(@id, 'event')] | //h3/ancestor::div[1]");
 
-$events = [];
 
-foreach ($articles as $article) {
-    // Extraction du titre
-    $titleNode = $xpath->query(".//h3", $article)->item(0);
+evenements.forEach(item => {
+    const card = document.createElement('article');
+    card.className = 'event-card';
     
-    if ($titleNode) {
-        // Extraction de la description / résumé
-        $descNode = $xpath->query(".//p", $article)->item(0);
-        
-        // Extraction des métadonnées (Dates, Prix) souvent situées dans du texte libre ou des balises span
-        $textMeta = $article->textContent;
-        
-        // Nettoyage rapide pour l'affichage
-        $events[] = [
-            "title" => trim($titleNode->textContent),
-            "description" => $descNode ? trim($descNode->textContent) : "Aucune description disponible.",
-            "raw_text" => trim(preg_replace('/\s+/', ' ', $textMeta))
-        ];
-    }
-}
+    // Si votre script PHP extrait un lien spécifique, utilisez-le, sinon restez sur la page globale
+    const lienEvenement = item.url ? item.url : 'https://tokyocheapo.com';
+    
+    card.innerHTML = `
+        <h3 class="event-title">${item.title}</h3>
+        <p class="event-details">${item.description}</p>
+        <a href="${lienEvenement}" target="_blank" class="btn-link">Voir l'événement</a>
+    `;
+    
+    grid.appendChild(card);
+});
 
 // Renvoie le tableau converti en format JSON exploitable
 echo json_encode($events);
