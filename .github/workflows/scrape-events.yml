@@ -58,10 +58,14 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # git diff --quiet renvoie "faux" (donc on entre dans le if)
-          # seulement si events.json a réellement changé.
-          if ! git diff --quiet -- events.json; then
-            git add events.json
+          # On ajoute d'abord le fichier à l'index (git add), y compris
+          # s'il est nouveau et jamais suivi jusqu'ici — un `git diff`
+          # classique ignore les fichiers non suivis, ce qui ferait
+          # rater le tout premier commit. On compare donc l'état indexé
+          # (--cached) à l'état du dernier commit.
+          git add events.json
+
+          if ! git diff --cached --quiet; then
             git commit -m "Mise à jour automatique des événements ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           else
