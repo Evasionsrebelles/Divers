@@ -1,1 +1,69 @@
+# ============================================================
+# Workflow GitHub Actions — scraping périodique d'événements
+#
+# Ce fichier doit être placé dans le dépôt à l'emplacement exact :
+#   .github/workflows/scrape-events.yml
+#
+# Ce que fait ce workflow :
+# 1. Se déclenche automatiquement selon un planning (cron),
+#    ou manuellement depuis l'onglet "Actions" de GitHub.
+# 2. Installe PHP sur une machine virtuelle temporaire.
+# 3. Exécute scrape-events.php, qui régénère events.json.
+# 4. Si le fichier a changé, il est committé et poussé dans le dépôt.
+# 5. GitHub Pages sert alors la version à jour de events.json
+#    comme un simple fichier statique.
+# ============================================================
 
+name: Scraping des événements
+
+on:
+  # Déclenchement manuel : un bouton "Run workflow" apparaît
+  # dans l'onglet Actions du dépôt GitHub.
+  workflow_dispatch:
+
+  # Déclenchement planifié (syntaxe cron, en UTC).
+  # Exemple ci-dessous : tous les jours à 5h00 UTC (6h/7h en France
+  # selon l'heure d'été/hiver).
+  schedule:
+    - cron: '0 5 * * *'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    # Permission nécessaire pour que le workflow puisse pousser
+    # un commit dans le dépôt (sinon il est en lecture seule).
+    permissions:
+      contents: write
+
+    steps:
+      # Étape 1 : récupère le code du dépôt sur la machine virtuelle
+      - name: Récupération du dépôt
+        uses: actions/checkout@v4
+
+      # Étape 2 : installe PHP avec l'extension cURL et DOM
+      - name: Installation de PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          extensions: curl, dom, mbstring
+
+      # Étape 3 : lance le scraper, qui régénère events.json
+      - name: Exécution du scraper
+        run: php scrape-events.php
+
+      # Étape 4 : commit et push le fichier events.json s'il a changé
+      - name: Commit du fichier events.json si modifié
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # git diff --quiet renvoie "faux" (donc on entre dans le if)
+          # seulement si events.json a réellement changé.
+          if ! git diff --quiet -- events.json; then
+            git add events.json
+            git commit -m "Mise à jour automatique des événements ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "Aucun changement dans events.json — rien à committer."
+          fi
