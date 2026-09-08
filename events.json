@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "Ginza Sumo Show with Dinner",
-            "description": "Experience sumo culture and Japanese cuisine in Ginza.",
-            "date": "Aug 24\n\t\t\t\t\t~\n\t\t\t\t\tSep 7",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/ginza-sumo-show-with-dinner\/",
-            "raw_text": "Aug 24 ~ Sep 7 Featured Ginza Sumo Show with Dinner Experience sumo culture and Japanese cuisine in Ginza. Read more 5:00pm – 7:00pm ¥19,000 – ¥23,000 Food Show Sport Ginza"
-        },
-        {
             "title": "Shibuya Anime Music Night",
             "description": "Listen to anime song covers by a live band and try your hand at glow-stick choreography.",
             "date": "Tue, Sep\n\t\t\t\t08",
@@ -31,9 +24,9 @@
         {
             "title": "Inokashira Park Art Markets",
             "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Mon, Sep\n\t\t\t\t07",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260907\/",
-            "raw_text": "Mon, Sep 07 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+            "date": "Tue, Sep\n\t\t\t\t08",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260908\/",
+            "raw_text": "Tue, Sep 08 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Adrian Sherwood Presents Dub Sessions 2026 Feat. Nightmares on Wax",
@@ -167,8 +160,15 @@
             "date": "Sep 12\n\t\t\t\t\t~\n\t\t\t\t\tSep 13",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/kichijoji-autumn-festival\/",
             "raw_text": "Sep 12 ~ Sep 13 Kichijōji Fall Festival 2026 Head to this festival to see portable shrines carried through the streets of Kichijōji. Read more 10:00am – 7:30pm Free Festival Kichijōji"
+        },
+        {
+            "title": "Ark Hills Autumn Festival 2026",
+            "description": "A trendy take on a traditional autumn festival.",
+            "date": "Sep 11\n\t\t\t\t\t~\n\t\t\t\t\tSep 13",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/ark-hills-autumn-festival\/",
+            "raw_text": "Sep 11 ~ Sep 13 Ark Hills Autumn Festival 2026 A trendy take on a traditional autumn festival. Read more Free Festival Akasaka Roppongi"
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-07T09:47:14+00:00"
+    "generated_at": "2026-09-08T09:11:33+00:00"
 }
