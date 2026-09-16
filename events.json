@@ -1,18 +1,18 @@
 {
     "events": [
         {
-            "title": "September Grand Sumo Tournament",
-            "description": "The 5th of Japan's six annual sumo tournaments.",
-            "date": "Sep 13\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/sumo-wrestling-september-grand-tournament\/",
-            "raw_text": "Sep 13 ~ Sep 27 Featured September Grand Sumo Tournament ★ Staff recommendation The 5th of Japan's six annual sumo tournaments. Read more ¥3,500 – ¥40,000 Sport Ryogoku"
-        },
-        {
             "title": "Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō",
             "description": "MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and …",
             "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/mugen-no-nikukyu-monsoni-pop-up-omotesando\/",
             "raw_text": "Sep 18 ~ Sep 27 Featured Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and … Read more 11:00am – 8:00pm Free Anime Food Gaming Omotesandō"
+        },
+        {
+            "title": "September Grand Sumo Tournament",
+            "description": "The 5th of Japan's six annual sumo tournaments.",
+            "date": "Sep 13\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/sumo-wrestling-september-grand-tournament\/",
+            "raw_text": "Sep 13 ~ Sep 27 Featured September Grand Sumo Tournament ★ Staff recommendation The 5th of Japan's six annual sumo tournaments. Read more ¥3,500 – ¥40,000 Sport Ryogoku"
         },
         {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
@@ -22,25 +22,18 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Tomioka Hachimangū Shrine Antique Fair & Flea Market",
-            "description": "The antique fair leans toward curated, higher-value items, while the flea market is more eclectic.",
-            "date": "Tue, Sep\n\t\t\t\t15",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tomioka-hachimangu-markets\/20260915\/",
-            "raw_text": "Tue, Sep 15 Tomioka Hachimangū Shrine Antique Fair & Flea Market The antique fair leans toward curated, higher-value items, while the flea market is more eclectic. Read more 8:00am – 3:00pm Free Market Fukagawa"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Tue, Sep\n\t\t\t\t15",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260915\/",
-            "raw_text": "Tue, Sep 15 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "Tsurugaoka Hachimangū Grand Festival",
             "description": "A 3-day religious festival which takes place at Kamakura's most famous shrine.",
             "date": "Sep 14\n\t\t\t\t\t~\n\t\t\t\t\tSep 16",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tsurugaoka-hachimangu-grand-festival\/",
             "raw_text": "Sep 14 ~ Sep 16 Tsurugaoka Hachimangū Grand Festival A 3-day religious festival which takes place at Kamakura's most famous shrine. Read more 6:00am – 9:00pm Free Festival Kamakura"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Wed, Sep\n\t\t\t\t16",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260916\/",
+            "raw_text": "Wed, Sep 16 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "TOFROM YAESU TOWER Opening Festival",
@@ -62,6 +55,13 @@
             "date": "Sat, Sep\n\t\t\t\t19",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/the-american-burlesque-at-tokyo-international-comedy-festival\/",
             "raw_text": "Sat, Sep 19 The American Burlesque at Tokyo International Comedy Festival Burlesque meets Tokyo's biggest comedy celebration for one night only. Read more 6:30pm – 9:30pm ¥7,000 (advance sales) Comedy Show Omotesandō"
+        },
+        {
+            "title": "Puerto Rico Festival 2026",
+            "description": "Salsa, reggaeton, and Caribbean cooking.",
+            "date": "Sat, Sep\n\t\t\t\t19",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/puerto-rico-festival\/",
+            "raw_text": "Sat, Sep 19 Puerto Rico Festival 2026 Salsa, reggaeton, and Caribbean cooking. Read more 3:00pm – 9:00pm Free Festival Food Music Toyosu"
         },
         {
             "title": "Shinjuku Chuo Park Flea Market",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-15T09:39:22+00:00"
+    "generated_at": "2026-09-16T09:33:40+00:00"
 }
