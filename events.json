@@ -1,18 +1,18 @@
 {
     "events": [
         {
-            "title": "Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō",
-            "description": "MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and …",
-            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/mugen-no-nikukyu-monsoni-pop-up-omotesando\/",
-            "raw_text": "Sep 18 ~ Sep 27 Featured Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and … Read more 11:00am – 8:00pm Free Anime Food Gaming Omotesandō"
-        },
-        {
             "title": "September Grand Sumo Tournament",
             "description": "The 5th of Japan's six annual sumo tournaments.",
             "date": "Sep 13\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/sumo-wrestling-september-grand-tournament\/",
             "raw_text": "Sep 13 ~ Sep 27 Featured September Grand Sumo Tournament ★ Staff recommendation The 5th of Japan's six annual sumo tournaments. Read more ¥3,500 – ¥40,000 Sport Ryogoku"
+        },
+        {
+            "title": "Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō",
+            "description": "MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and …",
+            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/mugen-no-nikukyu-monsoni-pop-up-omotesando\/",
+            "raw_text": "Sep 18 ~ Sep 27 Featured Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and … Read more 11:00am – 8:00pm Free Anime Food Gaming Omotesandō"
         },
         {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
@@ -22,18 +22,11 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Tsurugaoka Hachimangū Grand Festival",
-            "description": "A 3-day religious festival which takes place at Kamakura's most famous shrine.",
-            "date": "Sep 14\n\t\t\t\t\t~\n\t\t\t\t\tSep 16",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tsurugaoka-hachimangu-grand-festival\/",
-            "raw_text": "Sep 14 ~ Sep 16 Tsurugaoka Hachimangū Grand Festival A 3-day religious festival which takes place at Kamakura's most famous shrine. Read more 6:00am – 9:00pm Free Festival Kamakura"
-        },
-        {
             "title": "Inokashira Park Art Markets",
             "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Wed, Sep\n\t\t\t\t16",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260916\/",
-            "raw_text": "Wed, Sep 16 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+            "date": "Thu, Sep\n\t\t\t\t17",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260917\/",
+            "raw_text": "Thu, Sep 17 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "TOFROM YAESU TOWER Opening Festival",
@@ -78,6 +71,13 @@
             "raw_text": "Sat, Sep 19 Nakanobu Nebuta Festival 2026 Nakanobu Nebuta Festival is Shinagawa's own mini-version of Aomori's famous Nebuta Festival. Read more 4:45pm – 7:50pm Free Festival Nakanobu"
         },
         {
+            "title": "Weekend Comedy at TCB",
+            "description": "Tokyo Comedy Bar offers some of the best chuckles in Tokyo.",
+            "date": "Sat, Sep\n\t\t\t\t19",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/weekend-comedy-tcb\/",
+            "raw_text": "Sat, Sep 19 Weekend Comedy at TCB ★ Staff recommendation Tokyo Comedy Bar offers some of the best chuckles in Tokyo. Read more 7:30pm – 10:00pm ¥3,000 (advance sales) Comedy Shibuya"
+        },
+        {
             "title": "Hakkeijima Sea Paradise Fireworks",
             "description": "Watch 2,500 digitally synchronized fireworks light up the summer night sky.",
             "date": "Sat, Sep\n\t\t\t\t19",
@@ -92,18 +92,25 @@
             "raw_text": "Sat, Sep 19 Tokyo River Clean-Up Enjoy some small talk and the feeling of warmth for doing your part to keep Tokyo's rivers clean and beautiful. Read more Free Volunteering Edogawa"
         },
         {
-            "title": "Weekend Comedy at TCB",
-            "description": "Tokyo Comedy Bar offers some of the best chuckles in Tokyo.",
-            "date": "Sat, Sep\n\t\t\t\t19",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/weekend-comedy-tcb\/20260919\/",
-            "raw_text": "Sat, Sep 19 Weekend Comedy at TCB ★ Staff recommendation Tokyo Comedy Bar offers some of the best chuckles in Tokyo. Read more 7:30pm – 10:00pm ¥3,000 (advance sales) Comedy Shibuya"
-        },
-        {
             "title": "Ultra Japan",
             "description": "Ultra Japan is the biggest EDM festival in the country.",
             "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/ultra-japan\/",
             "raw_text": "Sep 19 ~ Sep 20 Ultra Japan Ultra Japan is the biggest EDM festival in the country. Read more 11:00am – 9:00pm ¥18,000 – ¥48,000 Music Odaiba"
+        },
+        {
+            "title": "Hanazono Shrine Antique Market",
+            "description": "Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets.",
+            "date": "Sun, Sep\n\t\t\t\t20",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/hanazono-antique-market\/",
+            "raw_text": "Sun, Sep 20 Hanazono Shrine Antique Market Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets. Read more 6:30am – 4:00pm Free Market Shinjuku"
+        },
+        {
+            "title": "Hie Shrine Annual Festival",
+            "description": "A traditional Japanese festival with a mikoshi shrine parade.",
+            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/hie-shrine-annual-festival\/",
+            "raw_text": "Sep 18 ~ Sep 20 Hie Shrine Annual Festival A traditional Japanese festival with a mikoshi shrine parade. Read more 8:30am – 8:30pm Free Festival Yokohama"
         },
         {
             "title": "Shibuya Konno Hachimangū Festival",
@@ -118,13 +125,6 @@
             "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/setagaya-hachimangu-autumn-festival\/",
             "raw_text": "Sep 19 ~ Sep 20 Setagaya Hachimangū Fall Festival The highlight of Setagaya Hachimangū Fall Festival is the ritual sumo. Read more 10:00am – 8:00pm Free Festival Miyanosaka"
-        },
-        {
-            "title": "Hie Shrine Annual Festival",
-            "description": "A traditional Japanese festival with a mikoshi shrine parade.",
-            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hie-shrine-annual-festival\/",
-            "raw_text": "Sep 18 ~ Sep 20 Hie Shrine Annual Festival A traditional Japanese festival with a mikoshi shrine parade. Read more 8:30am – 8:30pm Free Festival Yokohama"
         },
         {
             "title": "Hakkeijima Sea Paradise Fireworks",
@@ -162,13 +162,13 @@
             "raw_text": "Sep 19 ~ Sep 20 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
-            "title": "Hanazono Shrine Antique Market",
-            "description": "Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets.",
-            "date": "Sun, Sep\n\t\t\t\t20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hanazono-antique-market\/20260920\/",
-            "raw_text": "Sun, Sep 20 Hanazono Shrine Antique Market Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets. Read more 6:30am – 4:00pm Free Market Shinjuku"
+            "title": "The Oedo Antique Market",
+            "description": "One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander.",
+            "date": "Mon, Sep\n\t\t\t\t21",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/oedo-antique-market\/",
+            "raw_text": "Mon, Sep 21 The Oedo Antique Market One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander. Read more 9:00am – 4:00pm Free Market Yurakucho"
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-16T09:33:40+00:00"
+    "generated_at": "2026-09-17T09:41:50+00:00"
 }
