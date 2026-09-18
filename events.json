@@ -22,13 +22,6 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Thu, Sep\n\t\t\t\t17",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260917\/",
-            "raw_text": "Thu, Sep 17 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "TOFROM YAESU TOWER Opening Festival",
             "description": "Free drinks, 27 DJs, and a voucher lottery to mark the opening of Tokyo's newest complex.",
             "date": "Sep 10\n\t\t\t\t\t~\n\t\t\t\t\tSep 18",
@@ -36,11 +29,11 @@
             "raw_text": "Sep 10 ~ Sep 18 TOFROM YAESU TOWER Opening Festival Free drinks, 27 DJs, and a voucher lottery to mark the opening of Tokyo's newest complex. Read more 11:30am – 8:00pm Free Drinks Festival Music Yaesu"
         },
         {
-            "title": "Tokyo German Village Fireworks",
-            "description": "5,000 fireworks will be synchronized to dramatic, original orchestral music.",
-            "date": "Sat, Sep\n\t\t\t\t19",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-german-village-fireworks\/",
-            "raw_text": "Sat, Sep 19 Tokyo German Village Fireworks 5,000 fireworks will be synchronized to dramatic, original orchestral music. Read more 7:20pm – 7:50pm ¥0 – ¥5,000 Fireworks Chiba"
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Fri, Sep\n\t\t\t\t18",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260918\/",
+            "raw_text": "Fri, Sep 18 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "The American Burlesque at Tokyo International Comedy Festival",
@@ -48,6 +41,13 @@
             "date": "Sat, Sep\n\t\t\t\t19",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/the-american-burlesque-at-tokyo-international-comedy-festival\/",
             "raw_text": "Sat, Sep 19 The American Burlesque at Tokyo International Comedy Festival Burlesque meets Tokyo's biggest comedy celebration for one night only. Read more 6:30pm – 9:30pm ¥7,000 (advance sales) Comedy Show Omotesandō"
+        },
+        {
+            "title": "Tokyo German Village Fireworks",
+            "description": "5,000 fireworks will be synchronized to dramatic, original orchestral music.",
+            "date": "Sat, Sep\n\t\t\t\t19",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-german-village-fireworks\/",
+            "raw_text": "Sat, Sep 19 Tokyo German Village Fireworks 5,000 fireworks will be synchronized to dramatic, original orchestral music. Read more 7:20pm – 7:50pm ¥0 – ¥5,000 Fireworks Chiba"
         },
         {
             "title": "Puerto Rico Festival 2026",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-17T09:41:50+00:00"
+    "generated_at": "2026-09-18T09:15:24+00:00"
 }
