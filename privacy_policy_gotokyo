@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GoTokyo — Politique de confidentialité / Privacy Policy</title>
+<style>
+  :root{
+    --primary:#0D47A1;
+    --bg:#f7f9fc;
+    --card:#ffffff;
+    --text:#1a1a2e;
+    --muted:#5b6472;
+    --border:#e3e8f0;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);
+    color:var(--text);
+    line-height:1.6;
+  }
+  header{
+    background:var(--primary);
+    color:#fff;
+    padding:32px 20px;
+    text-align:center;
+  }
+  header h1{margin:0 0 6px 0;font-size:1.6rem;}
+  header p{margin:0;opacity:.85;font-size:.95rem;}
+  .lang-switch{
+    position:sticky;
+    top:0;
+    z-index:10;
+    background:#fff;
+    border-bottom:1px solid var(--border);
+    display:flex;
+    justify-content:center;
+    gap:8px;
+    padding:10px;
+  }
+  .lang-switch button{
+    border:2px solid var(--primary);
+    background:#fff;
+    color:var(--primary);
+    padding:8px 18px;
+    border-radius:20px;
+    font-weight:700;
+    cursor:pointer;
+    font-size:.9rem;
+  }
+  .lang-switch button.active{
+    background:var(--primary);
+    color:#fff;
+  }
+  main{
+    max-width:760px;
+    margin:0 auto;
+    padding:24px 18px 60px;
+  }
+  section.lang-block{display:none;}
+  section.lang-block.active{display:block;}
+  .card{
+    background:var(--card);
+    border:1px solid var(--border);
+    border-radius:12px;
+    padding:22px 24px;
+    margin-bottom:18px;
+  }
+  h2{
+    color:var(--primary);
+    font-size:1.15rem;
+    margin-top:0;
+  }
+  h3{
+    font-size:1rem;
+    margin-bottom:6px;
+  }
+  p{margin:0 0 10px 0;color:var(--text);}
+  ul{margin:0 0 10px 0;padding-left:20px;}
+  li{margin-bottom:6px;}
+  .muted{color:var(--muted);font-size:.9rem;}
+  a{color:var(--primary);}
+  table{width:100%;border-collapse:collapse;margin:10px 0;}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--border);font-size:.92rem;}
+  th{color:var(--muted);font-weight:700;}
+  .updated{
+    text-align:center;
+    color:var(--muted);
+    font-size:.85rem;
+    margin-top:30px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>GoTokyo</h1>
+  <p>Politique de confidentialité — Privacy Policy</p>
+</header>
+
+<div class="lang-switch">
+  <button id="btn-fr" class="active" onclick="showLang('fr')">Français</button>
+  <button id="btn-en" onclick="showLang('en')">English</button>
+</div>
+
+<main>
+
+<!-- =========================== FRENCH =========================== -->
+<section id="fr" class="lang-block active">
+
+  <div class="card">
+    <p class="muted">Dernière mise à jour : 18 septembre 2026</p>
+    <p>La présente politique de confidentialité décrit comment l'application mobile <strong>GoTokyo</strong>
+    (ci-après « l'Application »), éditée par <strong>Évasions Rebelles</strong>, traite les données lors de
+    son utilisation. Cette politique est fournie afin d'être conforme aux exigences de Google Play Console
+    concernant la transparence sur les données.</p>
+  </div>
+
+  <div class="card">
+    <h2>1. Éditeur de l'application</h2>
+    <p>GoTokyo est développée et publiée par <strong>Évasions Rebelles</strong>.</p>
+    <p>Site web : <a href="https://evasionsrebelles.com/" target="_blank">evasionsrebelles.com</a></p>
+    <p>Contact : via le formulaire de contact disponible sur
+    <a href="https://evasionsrebelles.com/" target="_blank">evasionsrebelles.com</a>.</p>
+  </div>
+
+  <div class="card">
+    <h2>2. Données que nous traitons</h2>
+
+    <h3>2.1 Localisation géographique</h3>
+    <p>Avec votre autorisation, l'Application accède à la position GPS de votre appareil (via l'autorisation
+    de localisation du système). Cette donnée est utilisée uniquement, en local sur votre appareil, pour :</p>
+    <ul>
+      <li>centrer la carte sur votre position ;</li>
+      <li>calculer votre distance par rapport aux lieux affichés ;</li>
+      <li>vous indiquer si vous vous trouvez dans la zone couverte par l'Application (Tokyo).</li>
+    </ul>
+    <p>Votre position <strong>n'est ni transmise à nos serveurs, ni stockée, ni partagée avec des tiers</strong>.
+    Elle est traitée en temps réel, uniquement sur votre appareil. Vous pouvez révoquer l'autorisation de
+    localisation à tout moment dans les réglages de votre système Android.</p>
+
+    <h3>2.2 Préférences et favoris (stockage local)</h3>
+    <p>L'Application enregistre localement sur votre appareil, via le mécanisme de stockage natif
+    (<em>SharedPreferences</em>) :</p>
+    <ul>
+      <li>la langue choisie ;</li>
+      <li>la liste des lieux ajoutés en favoris.</li>
+    </ul>
+    <p>Ces informations restent sur votre appareil, ne sont jamais envoyées à nos serveurs et sont
+    supprimées automatiquement si vous désinstallez l'Application.</p>
+
+    <h3>2.3 Données que nous ne collectons pas</h3>
+    <p>L'Application ne requiert pas de création de compte, ne demande ni votre nom, ni votre e-mail, ni
+    aucune donnée d'identification personnelle. Elle n'intègre aucun module publicitaire, aucun outil
+    d'analyse comportementale (analytics) et ne réalise aucun suivi publicitaire entre applications ou
+    sites web.</p>
+  </div>
+
+  <div class="card">
+    <h2>3. Services tiers utilisés</h2>
+    <table>
+      <tr><th>Service</th><th>Finalité</th><th>Donnée concernée</th></tr>
+      <tr>
+        <td>OpenFreeMap (tiles.openfreemap.org)</td>
+        <td>Affichage des fonds de carte</td>
+        <td>Adresse IP techniquement transmise lors du chargement des tuiles cartographiques</td>
+      </tr>
+      <tr>
+        <td>Google Maps</td>
+        <td>Ouverture d'un itinéraire externe si vous le demandez</td>
+        <td>Coordonnées GPS du lieu sélectionné, transmises uniquement si vous cliquez sur ce lien</td>
+      </tr>
+      <tr>
+        <td>evasionsrebelles.com et evasionsrebelles.github.io</td>
+        <td>Pages d'information, guides, formulaire de proposition de lieux, affichées dans un navigateur
+        intégré</td>
+        <td>Selon la page consultée ; se référer à la politique de confidentialité du site concerné</td>
+      </tr>
+    </table>
+    <p class="muted">Ces services tiers disposent de leurs propres politiques de confidentialité, que nous
+    vous invitons à consulter.</p>
+  </div>
+
+  <div class="card">
+    <h2>4. Partage des données</h2>
+    <p>Nous ne vendons, ne louons et ne partageons aucune donnée personnelle avec des tiers à des fins
+    commerciales ou publicitaires. Aucune donnée n'est transmise à des tiers, à l'exception des échanges
+    techniques strictement nécessaires au fonctionnement des services décrits à la section 3.</p>
+  </div>
+
+  <div class="card">
+    <h2>5. Sécurité</h2>
+    <p>Les données stockées localement sur votre appareil (favoris, langue) le sont via les mécanismes de
+    stockage sécurisés fournis par le système d'exploitation Android. Aucune donnée personnelle n'étant
+    transmise à nos serveurs, aucun risque de fuite de données côté serveur ne s'applique à ces
+    informations.</p>
+  </div>
+
+  <div class="card">
+    <h2>6. Vos droits</h2>
+    <p>Vous pouvez à tout moment :</p>
+    <ul>
+      <li>révoquer l'autorisation de localisation dans les paramètres de votre appareil ;</li>
+      <li>supprimer vos favoris et préférences en désinstallant l'Application, ce qui efface immédiatement
+      toutes les données stockées localement ;</li>
+      <li>nous contacter pour toute question relative à cette politique via
+      <a href="https://evasionsrebelles.com/" target="_blank">evasionsrebelles.com</a>.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>7. Confidentialité des mineurs</h2>
+    <p>L'Application n'est pas destinée spécifiquement aux enfants et ne collecte sciemment aucune donnée
+    personnelle concernant des mineurs.</p>
+  </div>
+
+  <div class="card">
+    <h2>8. Modifications de cette politique</h2>
+    <p>Cette politique de confidentialité peut être mise à jour périodiquement, notamment en cas d'évolution
+    de l'Application ou de la réglementation applicable. La date de dernière mise à jour figure en haut de
+    cette page.</p>
+  </div>
+
+</section>
+
+<!-- =========================== ENGLISH =========================== -->
+<section id="en" class="lang-block">
+
+  <div class="card">
+    <p class="muted">Last updated: September 18, 2026</p>
+    <p>This Privacy Policy describes how the <strong>GoTokyo</strong> mobile application (the "App"),
+    published by <strong>Évasions Rebelles</strong>, handles data when you use it. This policy is provided
+    to comply with Google Play Console's data transparency requirements.</p>
+  </div>
+
+  <div class="card">
+    <h2>1. App publisher</h2>
+    <p>GoTokyo is developed and published by <strong>Évasions Rebelles</strong>.</p>
+    <p>Website: <a href="https://evasionsrebelles.com/" target="_blank">evasionsrebelles.com</a></p>
+    <p>Contact: via the contact form available on
+    <a href="https://evasionsrebelles.com/" target="_blank">evasionsrebelles.com</a>.</p>
+  </div>
+
+  <div class="card">
+    <h2>2. Data we process</h2>
+
+    <h3>2.1 Geographic location</h3>
+    <p>With your permission, the App accesses your device's GPS position (through the system's location
+    permission). This data is used only, locally on your device, to:</p>
+    <ul>
+      <li>center the map on your position;</li>
+      <li>calculate your distance from displayed points of interest;</li>
+      <li>let you know whether you are within the area covered by the App (Tokyo).</li>
+    </ul>
+    <p>Your location is <strong>never transmitted to our servers, stored, or shared with third
+    parties</strong>. It is processed in real time, on your device only. You may revoke the location
+    permission at any time in your Android system settings.</p>
+
+    <h3>2.2 Preferences and favorites (local storage)</h3>
+    <p>The App stores locally on your device, using the platform's native storage mechanism
+    (<em>SharedPreferences</em>):</p>
+    <ul>
+      <li>your chosen language;</li>
+      <li>the list of places you added to your favorites.</li>
+    </ul>
+    <p>This information stays on your device, is never sent to our servers, and is automatically deleted if
+    you uninstall the App.</p>
+
+    <h3>2.3 Data we do not collect</h3>
+    <p>The App does not require account creation and does not ask for your name, email address, or any
+    other personally identifiable information. It does not include any advertising module, any behavioral
+    analytics tool, and does not perform any cross-app or cross-site advertising tracking.</p>
+  </div>
+
+  <div class="card">
+    <h2>3. Third-party services used</h2>
+    <table>
+      <tr><th>Service</th><th>Purpose</th><th>Data involved</th></tr>
+      <tr>
+        <td>OpenFreeMap (tiles.openfreemap.org)</td>
+        <td>Rendering the map background</td>
+        <td>IP address, technically transmitted when loading map tiles</td>
+      </tr>
+      <tr>
+        <td>Google Maps</td>
+        <td>Opening an external route if you request it</td>
+        <td>GPS coordinates of the selected place, sent only if you tap this link</td>
+      </tr>
+      <tr>
+        <td>evasionsrebelles.com and evasionsrebelles.github.io</td>
+        <td>Information pages, guides, and place-submission form, displayed in an in-app browser</td>
+        <td>Depends on the page visited; refer to that site's own privacy policy</td>
+      </tr>
+    </table>
+    <p class="muted">These third-party services have their own privacy policies, which we encourage you to
+    review.</p>
+  </div>
+
+  <div class="card">
+    <h2>4. Data sharing</h2>
+    <p>We do not sell, rent, or share personal data with third parties for commercial or advertising
+    purposes. No data is transmitted to third parties beyond the technical exchanges strictly necessary for
+    the services described in Section 3.</p>
+  </div>
+
+  <div class="card">
+    <h2>5. Security</h2>
+    <p>Data stored locally on your device (favorites, language) is stored using the secure storage
+    mechanisms provided by the Android operating system. Since no personal data is transmitted to our
+    servers, this information is not exposed to server-side data breach risks.</p>
+  </div>
+
+  <div class="card">
+    <h2>6. Your rights</h2>
+    <p>You may at any time:</p>
+    <ul>
+      <li>revoke the location permission in your device settings;</li>
+      <li>delete your favorites and preferences by uninstalling the App, which immediately erases all
+      locally stored data;</li>
+      <li>contact us with any question about this policy via
+      <a href="https://evasionsrebelles.com/" target="_blank">evasionsrebelles.com</a>.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>7. Children's privacy</h2>
+    <p>The App is not specifically directed at children and does not knowingly collect any personal data
+    from minors.</p>
+  </div>
+
+  <div class="card">
+    <h2>8. Changes to this policy</h2>
+    <p>This Privacy Policy may be updated from time to time, in particular to reflect changes to the App or
+    to applicable law. The date of the last update appears at the top of this page.</p>
+  </div>
+
+</section>
+
+<p class="updated">GoTokyo — Évasions Rebelles — <span id="year"></span></p>
+
+</main>
+
+<script>
+  function showLang(lang){
+    document.getElementById('fr').classList.toggle('active', lang==='fr');
+    document.getElementById('en').classList.toggle('active', lang==='en');
+    document.getElementById('btn-fr').classList.toggle('active', lang==='fr');
+    document.getElementById('btn-en').classList.toggle('active', lang==='en');
+    document.documentElement.lang = lang;
+  }
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>
