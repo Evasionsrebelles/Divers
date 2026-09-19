@@ -22,20 +22,6 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "TOFROM YAESU TOWER Opening Festival",
-            "description": "Free drinks, 27 DJs, and a voucher lottery to mark the opening of Tokyo's newest complex.",
-            "date": "Sep 10\n\t\t\t\t\t~\n\t\t\t\t\tSep 18",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tofrom-yaesu-tower-opening-festival\/",
-            "raw_text": "Sep 10 ~ Sep 18 TOFROM YAESU TOWER Opening Festival Free drinks, 27 DJs, and a voucher lottery to mark the opening of Tokyo's newest complex. Read more 11:30am – 8:00pm Free Drinks Festival Music Yaesu"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Fri, Sep\n\t\t\t\t18",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260918\/",
-            "raw_text": "Fri, Sep 18 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "The American Burlesque at Tokyo International Comedy Festival",
             "description": "Burlesque meets Tokyo's biggest comedy celebration for one night only.",
             "date": "Sat, Sep\n\t\t\t\t19",
@@ -90,6 +76,13 @@
             "date": "Sat, Sep\n\t\t\t\t19",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-river-clean\/20260919\/",
             "raw_text": "Sat, Sep 19 Tokyo River Clean-Up Enjoy some small talk and the feeling of warmth for doing your part to keep Tokyo's rivers clean and beautiful. Read more Free Volunteering Edogawa"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Sat, Sep\n\t\t\t\t19",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260919\/",
+            "raw_text": "Sat, Sep 19 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Ultra Japan",
@@ -167,8 +160,15 @@
             "date": "Mon, Sep\n\t\t\t\t21",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/oedo-antique-market\/",
             "raw_text": "Mon, Sep 21 The Oedo Antique Market One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander. Read more 9:00am – 4:00pm Free Market Yurakucho"
+        },
+        {
+            "title": "Tokyo National Museum – Free Admission Day",
+            "description": "Tokyo National Museum's regular exhibitions are free to the public on the third Monday of September.",
+            "date": "Mon, Sep\n\t\t\t\t21",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-national-museum-free-admission-day\/",
+            "raw_text": "Mon, Sep 21 Tokyo National Museum – Free Admission Day Tokyo National Museum's regular exhibitions are free to the public on the third Monday of September. Read more 9:30am – 5:00pm Free Ueno"
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-18T09:15:24+00:00"
+    "generated_at": "2026-09-19T09:01:25+00:00"
 }
