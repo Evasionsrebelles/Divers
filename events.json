@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "September Grand Sumo Tournament",
-            "description": "The 5th of Japan's six annual sumo tournaments.",
-            "date": "Sep 13\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/sumo-wrestling-september-grand-tournament\/",
-            "raw_text": "Sep 13 ~ Sep 27 Featured September Grand Sumo Tournament ★ Staff recommendation The 5th of Japan's six annual sumo tournaments. Read more ¥3,500 – ¥40,000 Sport Ryogoku"
-        },
-        {
             "title": "Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō",
             "description": "MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and …",
             "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
@@ -15,88 +8,18 @@
             "raw_text": "Sep 18 ~ Sep 27 Featured Mugen no Nikukyū: MONSONI! Pop-Up Shop in Omotesandō MIXI is building one of its fictional shops for real. Mugen no Nikukyū, the store from the world of MONSONI!, opens as a 10-day pop-up in Omotesandō on September 18 — with a purple ube menu and … Read more 11:00am – 8:00pm Free Anime Food Gaming Omotesandō"
         },
         {
+            "title": "September Grand Sumo Tournament",
+            "description": "The 5th of Japan's six annual sumo tournaments.",
+            "date": "Sep 13\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/sumo-wrestling-september-grand-tournament\/",
+            "raw_text": "Sep 13 ~ Sep 27 Featured September Grand Sumo Tournament ★ Staff recommendation The 5th of Japan's six annual sumo tournaments. Read more ¥3,500 – ¥40,000 Sport Ryogoku"
+        },
+        {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
             "description": "Cuddle up to some love songs by candlelight.",
             "date": "Fri, Oct\n\t\t\t\t30",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/candlelight-concert-a-collection-of-great-love-songs\/",
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
-        },
-        {
-            "title": "Ultra Japan",
-            "description": "Ultra Japan is the biggest EDM festival in the country.",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/ultra-japan\/",
-            "raw_text": "Sep 19 ~ Sep 20 Ultra Japan Ultra Japan is the biggest EDM festival in the country. Read more 11:00am – 9:00pm ¥18,000 – ¥48,000 Music Odaiba"
-        },
-        {
-            "title": "Hanazono Shrine Antique Market",
-            "description": "Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets.",
-            "date": "Sun, Sep\n\t\t\t\t20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hanazono-antique-market\/",
-            "raw_text": "Sun, Sep 20 Hanazono Shrine Antique Market Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets. Read more 6:30am – 4:00pm Free Market Shinjuku"
-        },
-        {
-            "title": "Hie Shrine Annual Festival",
-            "description": "A traditional Japanese festival with a mikoshi shrine parade.",
-            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hie-shrine-annual-festival\/",
-            "raw_text": "Sep 18 ~ Sep 20 Hie Shrine Annual Festival A traditional Japanese festival with a mikoshi shrine parade. Read more 8:30am – 8:30pm Free Festival Yokohama"
-        },
-        {
-            "title": "Shibuya Konno Hachimangū Festival",
-            "description": "Want to see a giant celebration in the heart of Tokyo? Look no further.",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-konno-hachimangu-annual-festival\/",
-            "raw_text": "Sep 19 ~ Sep 20 Shibuya Konno Hachimangū Festival Want to see a giant celebration in the heart of Tokyo? Look no further. Read more Free Festival Shibuya"
-        },
-        {
-            "title": "Setagaya Hachimangū Fall Festival",
-            "description": "The highlight of Setagaya Hachimangū Fall Festival is the ritual sumo.",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/setagaya-hachimangu-autumn-festival\/",
-            "raw_text": "Sep 19 ~ Sep 20 Setagaya Hachimangū Fall Festival The highlight of Setagaya Hachimangū Fall Festival is the ritual sumo. Read more 10:00am – 8:00pm Free Festival Miyanosaka"
-        },
-        {
-            "title": "Hakkeijima Sea Paradise Fireworks",
-            "description": "Watch 2,500 digitally synchronized fireworks light up the summer night sky.",
-            "date": "Sun, Sep\n\t\t\t\t20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hakkeijima-sea-paradise-fireworks\/20260920\/",
-            "raw_text": "Sun, Sep 20 Hakkeijima Sea Paradise Fireworks Watch 2,500 digitally synchronized fireworks light up the summer night sky. Read more 8:30pm – 8:40pm ¥2,000 – ¥8,900 Fireworks Yokohama and Kanagawa"
-        },
-        {
-            "title": "UNU Farmers Market",
-            "description": "Pick up fresh veg and much, much more.",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/unu-farmers-market\/20260919\/",
-            "raw_text": "Sep 19 ~ Sep 20 UNU Farmers Market Pick up fresh veg and much, much more. Read more 10:00am – 4:00pm Free Market Shibuya"
-        },
-        {
-            "title": "Ohi Racecourse Flea Market",
-            "description": "One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal …",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/ohi-racecourse-flea-market\/20260919\/",
-            "raw_text": "Sep 19 ~ Sep 20 Ohi Racecourse Flea Market One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal … Read more 9:00am – 2:30pm Free Market Oimachi Ōmori"
-        },
-        {
-            "title": "Shibuya Vintage & Artisan Market",
-            "description": "Browse through racks of one-of-a-kind vintage fashion, discover handmade candles, accessories, and home decor, or dig through rare rock and movie posters.",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-vintage-artisan-market\/20260919\/",
-            "raw_text": "Sep 19 ~ Sep 20 Shibuya Vintage & Artisan Market Browse through racks of one-of-a-kind vintage fashion, discover handmade candles, accessories, and home decor, or dig through rare rock and movie posters. Read more 11:00am – 6:00pm Free Market Shibuya"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Sep 19\n\t\t\t\t\t~\n\t\t\t\t\tSep 20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260919\/",
-            "raw_text": "Sep 19 ~ Sep 20 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Sun, Sep\n\t\t\t\t20",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260920\/",
-            "raw_text": "Sun, Sep 20 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "The Oedo Antique Market",
@@ -162,13 +85,90 @@
             "raw_text": "Mon, Sep 21 Ohi Racecourse Flea Market One of the biggest flea markets in Tokyo, there's almost nothing you won't be able to find amongst the rows of stalls and tarps. Feel free to haggle while you hunt, it's all part of the appeal … Read more 9:00am – 2:30pm Free Market Oimachi Ōmori"
         },
         {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Mon, Sep\n\t\t\t\t21",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260921\/",
+            "raw_text": "Mon, Sep 21 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+        },
+        {
             "title": "ODAIBA DRONE SHOW 2026",
             "description": "1000 drones fly over Tokyo Bay, drawing a \"Pixel Moon\" and a run of game, anime, and film characters above Rainbow Bridge.",
             "date": "Sep 4\n\t\t\t\t\t~\n\t\t\t\t\tSep 22",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/odaiba-drone-show-2026\/",
             "raw_text": "Sep 4 ~ Sep 22 ODAIBA DRONE SHOW 2026 1000 drones fly over Tokyo Bay, drawing a \"Pixel Moon\" and a run of game, anime, and film characters above Rainbow Bridge. Read more 7:00pm – 9:30pm Free Show Odaiba"
+        },
+        {
+            "title": "Fiesta Mexicana 2026",
+            "description": "A fiesta to explore the depths of Mexican culture, cuisine, and tradition.",
+            "date": "Sep 20\n\t\t\t\t\t~\n\t\t\t\t\tSep 22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/fiesta-mexicana\/",
+            "raw_text": "Sep 20 ~ Sep 22 Fiesta Mexicana 2026 A fiesta to explore the depths of Mexican culture, cuisine, and tradition. Read more 11:00am – 7:00pm Free Festival Odaiba"
+        },
+        {
+            "title": "Toyokawa Inari Ooka-Echizen Festival",
+            "description": "This annual festival Toyokawa Inari shrine that celebrates feudal lord Ooka Tadasuke.",
+            "date": "Tue, Sep\n\t\t\t\t22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/toyokawa-inari-ooka-echizen-festival\/",
+            "raw_text": "Tue, Sep 22 Toyokawa Inari Ooka-Echizen Festival This annual festival Toyokawa Inari shrine that celebrates feudal lord Ooka Tadasuke. Read more 11:00am Free Festival Akasaka"
+        },
+        {
+            "title": "Hakkeijima Sea Paradise Fireworks",
+            "description": "Watch 2,500 digitally synchronized fireworks light up the summer night sky.",
+            "date": "Tue, Sep\n\t\t\t\t22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/hakkeijima-sea-paradise-fireworks\/20260922\/",
+            "raw_text": "Tue, Sep 22 Hakkeijima Sea Paradise Fireworks Watch 2,500 digitally synchronized fireworks light up the summer night sky. Read more 8:30pm – 8:40pm ¥2,000 – ¥8,900 Fireworks Yokohama and Kanagawa"
+        },
+        {
+            "title": "“The Best Flea Market” (Yurakucho)",
+            "description": "Think everything from kimono to ceramics, and you'll understand why this market is called the best. Spend hours poring over the stalls, but be prepared to push through some crowds to grab that …",
+            "date": "Tue, Sep\n\t\t\t\t22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/best-flea-market\/20260922\/",
+            "raw_text": "Tue, Sep 22 “The Best Flea Market” (Yurakucho) Think everything from kimono to ceramics, and you'll understand why this market is called the best. Spend hours poring over the stalls, but be prepared to push through some crowds to grab that … Read more 10:00am – 4:00pm Free Market Yurakucho"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Sep 21\n\t\t\t\t\t~\n\t\t\t\t\tSep 22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260921\/",
+            "raw_text": "Sep 21 ~ Sep 22 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+        },
+        {
+            "title": "Japan Soca Weekend 2026",
+            "description": "Japan Soca Weekend is Asia's largest music festival dedicated to Soca, a type of Caribbean music.",
+            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tSep 23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/japan-soca-weekend\/",
+            "raw_text": "Sep 18 ~ Sep 23 Japan Soca Weekend 2026 Japan Soca Weekend is Asia's largest music festival dedicated to Soca, a type of Caribbean music. Read more ¥7,000 – ¥35,400 Music Party Chiba Shibuya"
+        },
+        {
+            "title": "Enoshima Lanterns 2026",
+            "description": "See Enoshima Island lit up with dazzling illuminations.",
+            "date": "Aug 1\n\t\t\t\t\t~\n\t\t\t\t\tSep 23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/enoshima-lanterns\/",
+            "raw_text": "Aug 1 ~ Sep 23 Enoshima Lanterns 2026 See Enoshima Island lit up with dazzling illuminations. Read more 6:00pm – 8:30pm Free Festival Illumination Enoshima"
+        },
+        {
+            "title": "Shiba Park Oktoberfest Autumn",
+            "description": "Oktoberfest comes to Shiba Park with some real German flair.",
+            "date": "Sep 11\n\t\t\t\t\t~\n\t\t\t\t\tSep 23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shiba-park-oktoberfest\/",
+            "raw_text": "Sep 11 ~ Sep 23 Shiba Park Oktoberfest Autumn Oktoberfest comes to Shiba Park with some real German flair. Read more ¥500 (advance sales)¥500 (at the door) Beer Festival Shibakoen"
+        },
+        {
+            "title": "Candlelight Concert: The Nutcracker and More",
+            "description": "Huddle up on a chilly night before Christmas with candlelight and the tune of carols.",
+            "date": "Wed, Sep\n\t\t\t\t23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/candlelight-concert-holiday-nutcracker\/",
+            "raw_text": "Wed, Sep 23 Candlelight Concert: The Nutcracker and More Huddle up on a chilly night before Christmas with candlelight and the tune of carols. Read more ¥4,400 – ¥8,800 Illumination Music Nihonbashi"
+        },
+        {
+            "title": "Spiral, Spiral: Evolving Human Narratives at MoN Takanawa",
+            "description": "Life is a spiral.",
+            "date": "Mar 28\n\t\t\t\t\t~\n\t\t\t\t\tSep 23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/spiral-exhibition\/",
+            "raw_text": "Mar 28 ~ Sep 23 Spiral, Spiral: Evolving Human Narratives at MoN Takanawa Life is a spiral. Read more ¥2,500 (at the door) Art Takanawa"
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-20T09:29:14+00:00"
+    "generated_at": "2026-09-21T10:15:02+00:00"
 }
