@@ -22,32 +22,11 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Shinjuku Gyoen National Garden Mori no Takigi Noh",
-            "description": "A chance to experience the beauty of Noh theater in Shinjuku.",
-            "date": "Thu, Sep\n\t\t\t\t24",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shinjuku-gyoen-noh\/",
-            "raw_text": "Thu, Sep 24 Shinjuku Gyoen National Garden Mori no Takigi Noh A chance to experience the beauty of Noh theater in Shinjuku. Read more 5:30pm – 9:05pm ¥6,000 – ¥11,000 Theater Shinjuku"
-        },
-        {
-            "title": "Ōhara Naked Festival",
-            "description": "The Ohara Naked Festival would be more aptly named the Ohara \"semi-naked\" Festival.",
-            "date": "Sep 23\n\t\t\t\t\t~\n\t\t\t\t\tSep 24",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/ohara-naked-festival\/",
-            "raw_text": "Sep 23 ~ Sep 24 Ōhara Naked Festival The Ohara Naked Festival would be more aptly named the Ohara \"semi-naked\" Festival. Read more Free Festival Ohara"
-        },
-        {
-            "title": "Resonance and Radiance: Balázs Fülei and Masanori Sugano Piano Recital",
-            "description": "Two pianists, one keyboard, and a program that runs between Budapest and Tokyo.",
-            "date": "Thu, Sep\n\t\t\t\t24",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/fulei-sugano-piano-recital-oji-hall\/",
-            "raw_text": "Thu, Sep 24 Resonance and Radiance: Balázs Fülei and Masanori Sugano Piano Recital Two pianists, one keyboard, and a program that runs between Budapest and Tokyo. Read more 7:00pm ¥6,000 (advance sales) Music Ginza"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Thu, Sep\n\t\t\t\t24",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260924\/",
-            "raw_text": "Thu, Sep 24 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+            "title": "Ok Okapi: Martin Andersen and Chris Bigg",
+            "description": "Two-person design exhibition by Martin Andersen and Chris Bigg at Pocko Gallery Tokyo in Nishi Azabu, Oct 1-Nov 4, 2026.",
+            "date": "Oct 1\n\t\t\t\t\t~\n\t\t\t\t\tNov 4",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/ok-okapi-martin-andersen-and-chris-bigg\/",
+            "raw_text": "Oct 1 ~ Nov 4 Featured Ok Okapi: Martin Andersen and Chris Bigg Two-person design exhibition by Martin Andersen and Chris Bigg at Pocko Gallery Tokyo in Nishi Azabu, Oct 1-Nov 4, 2026. Read more Free Art Nishi Azabu"
         },
         {
             "title": "Starry Moon Viewing at Cosmo Planetarium Shibuya",
@@ -69,6 +48,13 @@
             "date": "Fri, Sep\n\t\t\t\t25",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/seibo-10th-anniversary-charity-event-friday-in-malawi\/",
             "raw_text": "Fri, Sep 25 Seibo 10th Anniversary Charity Event: Friday in Malawi Networking and drinks for a good cause. Read more 6:00pm – 8:00pm ¥10,000 (advance sales) Charity Drinks Fundraiser Marunouchi"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Fri, Sep\n\t\t\t\t25",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260925\/",
+            "raw_text": "Fri, Sep 25 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Asakusa Tourousai Lantern Festival 2026",
@@ -167,8 +153,22 @@
             "date": "Sep 23\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/fukagawa-moon-festival\/",
             "raw_text": "Sep 23 ~ Sep 27 Fukagawa Jugoya (Moon-Viewing) Festival A traditional moon viewing festival in the heart of Tokyo Read more 2:00pm – 8:30pm Free Festival Fukagawa Monzennakacho"
+        },
+        {
+            "title": "Namaste India",
+            "description": "Celebrate the ties between India and Japan at this beautiful and vibrant festival. Snacks, saree, and spices await for all lovers of Indian culture!",
+            "date": "Sep 26\n\t\t\t\t\t~\n\t\t\t\t\tSep 27",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/namaste-india\/",
+            "raw_text": "Sep 26 ~ Sep 27 Namaste India Celebrate the ties between India and Japan at this beautiful and vibrant festival. Snacks, saree, and spices await for all lovers of Indian culture! Read more Free Festival Harajuku"
+        },
+        {
+            "title": "Roppongi Matsuri",
+            "description": "Roppongi Matsuri is Roppongi's own little neighborhood festival.",
+            "date": "Sun, Sep\n\t\t\t\t27",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/roppongi-matsuri\/",
+            "raw_text": "Sun, Sep 27 Roppongi Matsuri Roppongi Matsuri is Roppongi's own little neighborhood festival. Read more Free Festival Roppongi"
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-24T09:35:30+00:00"
+    "generated_at": "2026-09-25T09:52:35+00:00"
 }
