@@ -8,39 +8,11 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Blue Note Jazz Festival",
-            "description": "Featuring jazz, funk, and R&B artists from around the globe.",
-            "date": "Late Sep",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/blue-note-jazz-festival\/",
-            "raw_text": "Late Sep Blue Note Jazz Festival Featuring jazz, funk, and R&B artists from around the globe. Read more 12:00pm ¥19,000 – ¥78,000 Festival Music Ariake"
-        },
-        {
-            "title": "Ōkunitama Shrine Autumn Festival\/Chestnut Festival",
-            "description": "The Autumn Festival at Ōkunitama Jinja Shrine,  also called the Chestnut Festival",
-            "date": "Sep 27\n\t\t\t\t\t~\n\t\t\t\t\tSep 28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/okunitama-shrine-autumn-festival-chestnut-festival\/",
-            "raw_text": "Sep 27 ~ Sep 28 Ōkunitama Shrine Autumn Festival\/Chestnut Festival The Autumn Festival at Ōkunitama Jinja Shrine, also called the Chestnut Festival Read more 9:00am – 9:00pm Free Festival Fuchu"
-        },
-        {
-            "title": "Naritasan Kawagoe Betsuin Flea Market",
-            "description": "Hunt for bargains in Little Edo.",
-            "date": "Mon, Sep\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/naritasan-kawagoe-betsuin-flea-market\/20260928\/",
-            "raw_text": "Mon, Sep 28 Naritasan Kawagoe Betsuin Flea Market Hunt for bargains in Little Edo. Read more 6:00am – 2:00pm Free Market Kawagoe"
-        },
-        {
-            "title": "Tomioka Hachimangū Shrine Antique Fair & Flea Market",
-            "description": "The antique fair leans toward curated, higher-value items, while the flea market is more eclectic.",
-            "date": "Mon, Sep\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tomioka-hachimangu-markets\/20260928\/",
-            "raw_text": "Mon, Sep 28 Tomioka Hachimangū Shrine Antique Fair & Flea Market The antique fair leans toward curated, higher-value items, while the flea market is more eclectic. Read more 8:00am – 3:00pm Free Market Fukagawa"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Mon, Sep\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260928\/",
-            "raw_text": "Mon, Sep 28 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+            "title": "Free Shakuhachi Concert in Tokyo",
+            "description": "It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute.",
+            "date": "Tue, Sep\n\t\t\t\t29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/free-shakuhachi-concert\/",
+            "raw_text": "Tue, Sep 29 Free Shakuhachi Concert in Tokyo It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute. Read more 6:00pm – 9:00pm Free Music Akasaka"
         },
         {
             "title": "Shibuya Anime Music Night",
@@ -50,18 +22,11 @@
             "raw_text": "Tue, Sep 29 Shibuya Anime Music Night Listen to anime song covers by a live band and try your hand at glow-stick choreography. Read more 6:30pm – 9:30pm ¥2,100 – ¥6,000 Anime Dance Music Shibuya"
         },
         {
-            "title": "Free Shakuhachi Concert in Tokyo",
-            "description": "It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute.",
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
             "date": "Tue, Sep\n\t\t\t\t29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/free-shakuhachi-concert\/",
-            "raw_text": "Tue, Sep 29 Free Shakuhachi Concert in Tokyo It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute. Read more 6:00pm – 9:00pm Free Music Akasaka"
-        },
-        {
-            "title": "Forest Beer Garden",
-            "description": "Forest Beer Garden is the perfect summer evening activity, think chill vibes outdoors with drinks.",
-            "date": "Apr 23\n\t\t\t\t\t~\n\t\t\t\t\tSep 30",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/forest-beer-garden\/",
-            "raw_text": "Apr 23 ~ Sep 30 Forest Beer Garden Forest Beer Garden is the perfect summer evening activity, think chill vibes outdoors with drinks. Read more ¥4,980 – ¥8,480 Beer Shinanomachi"
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260929\/",
+            "raw_text": "Tue, Sep 29 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Go Global Hub #1: Discover Global Challenges",
@@ -76,6 +41,13 @@
             "date": "Mar 27\n\t\t\t\t\t~\n\t\t\t\t\tSep 30",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/yomiuri-giants-baseball-tokyo-dome\/",
             "raw_text": "Mar 27 ~ Sep 30 Yomiuri Giants Baseball Game at Tokyo Dome Things heat up inside Tokyo Dome as the Yomiuri Giants are up to bat on their home turf. Read more ¥1,000 – ¥25,000 Sport Korakuen"
+        },
+        {
+            "title": "Forest Beer Garden",
+            "description": "Forest Beer Garden is the perfect summer evening activity, think chill vibes outdoors with drinks.",
+            "date": "Apr 23\n\t\t\t\t\t~\n\t\t\t\t\tSep 30",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/forest-beer-garden\/",
+            "raw_text": "Apr 23 ~ Sep 30 Forest Beer Garden Forest Beer Garden is the perfect summer evening activity, think chill vibes outdoors with drinks. Read more ¥4,980 – ¥8,480 Beer Shinanomachi"
         },
         {
             "title": "100% Doraemon & Friends in Tokyo",
@@ -148,6 +120,27 @@
             "raw_text": "Oct 3 ~ Oct 4 Sea Lights Lantern Festival in Odaiba Volunteers set out 12,000 paper lamps in bright, fancy designs. Read more 12:00pm – 8:20pm Free Festival Illumination Odaiba"
         },
         {
+            "title": "The Oedo Antique Market",
+            "description": "One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander.",
+            "date": "Sun, Oct\n\t\t\t\t04",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/oedo-antique-market\/",
+            "raw_text": "Sun, Oct 04 The Oedo Antique Market One of Japan's largest outdoor antique markets — around 250 stalls, and free to wander. Read more 9:00am – 4:00pm Free Market Yurakucho"
+        },
+        {
+            "title": "Hokkaidō Fair in Yoyogi",
+            "description": "Get a taste of what Hokkaidō has to offer at the the Hokkaidō Fair.",
+            "date": "Oct 1\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/2th-hokkaido-fair-in-yoyogi\/",
+            "raw_text": "Oct 1 ~ Oct 4 Hokkaidō Fair in Yoyogi Get a taste of what Hokkaidō has to offer at the the Hokkaidō Fair. Read more 10:00am – 7:00pm Free Food Harajuku"
+        },
+        {
+            "title": "Odasaga Road Festival",
+            "description": "Feel the community spirit at Sagamihara's Odasaga Road Festival.",
+            "date": "Oct 3\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/odasaga-road-festival\/",
+            "raw_text": "Oct 3 ~ Oct 4 Odasaga Road Festival Feel the community spirit at Sagamihara's Odasaga Road Festival. Read more 10:00am – 5:00pm Free Festival Sagamihara"
+        },
+        {
             "title": "Miura Night Market",
             "description": "Misaki’s retro shopping street lights up with stalls.",
             "date": "Oct 3\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
@@ -162,13 +155,20 @@
             "raw_text": "Oct 2 ~ Oct 4 Hasedera Temple Night Table Night falls, Hasedera Temple glows. Read more 5:30pm – 9:00pm ¥17,850 (advance sales) Art Food Music Kamakura"
         },
         {
-            "title": "Odasaga Road Festival",
-            "description": "Feel the community spirit at Sagamihara's Odasaga Road Festival.",
-            "date": "Oct 3\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/odasaga-road-festival\/",
-            "raw_text": "Oct 3 ~ Oct 4 Odasaga Road Festival Feel the community spirit at Sagamihara's Odasaga Road Festival. Read more 10:00am – 5:00pm Free Festival Sagamihara"
+            "title": "Yokohama Oktoberfest 2026",
+            "description": "German music, beer, and food blend to create a warm and cozy atmosphere at Yokohama's famous Red Brick Warehouse.",
+            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/yokohama-oktoberfest\/",
+            "raw_text": "Sep 18 ~ Oct 4 Yokohama Oktoberfest 2026 German music, beer, and food blend to create a warm and cozy atmosphere at Yokohama's famous Red Brick Warehouse. Read more 11:00am – 9:30pm ¥500 (at the door) Beer Festival Yokohama"
+        },
+        {
+            "title": "Moon Art Night Shimokitazawa",
+            "description": "Once again, the whole of Shimokitazawa is going moon-mad.",
+            "date": "Sep 18\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/moon-art-night-shimokitazawa\/",
+            "raw_text": "Sep 18 ~ Oct 4 Moon Art Night Shimokitazawa Once again, the whole of Shimokitazawa is going moon-mad. Read more 3:00pm – 9:00pm Free Art Shimokitazawa"
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-28T11:16:55+00:00"
+    "generated_at": "2026-09-29T10:56:16+00:00"
 }
