@@ -1,32 +1,18 @@
 {
     "events": [
         {
+            "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
+            "description": "Anime songs played live by a real band in a Shibuya basement.",
+            "date": "Tue, Oct\n\t\t\t\t06",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night-live-band-glow-stick-dance-wotagei\/",
+            "raw_text": "Tue, Oct 06 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
+        },
+        {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
             "description": "Cuddle up to some love songs by candlelight.",
             "date": "Fri, Oct\n\t\t\t\t30",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/candlelight-concert-a-collection-of-great-love-songs\/",
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
-        },
-        {
-            "title": "Free Shakuhachi Concert in Tokyo",
-            "description": "It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute.",
-            "date": "Tue, Sep\n\t\t\t\t29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/free-shakuhachi-concert\/",
-            "raw_text": "Tue, Sep 29 Free Shakuhachi Concert in Tokyo It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute. Read more 6:00pm – 9:00pm Free Music Akasaka"
-        },
-        {
-            "title": "Shibuya Anime Music Night",
-            "description": "Listen to anime song covers by a live band and try your hand at glow-stick choreography.",
-            "date": "Tue, Sep\n\t\t\t\t29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night\/",
-            "raw_text": "Tue, Sep 29 Shibuya Anime Music Night Listen to anime song covers by a live band and try your hand at glow-stick choreography. Read more 6:30pm – 9:30pm ¥2,100 – ¥6,000 Anime Dance Music Shibuya"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Tue, Sep\n\t\t\t\t29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260929\/",
-            "raw_text": "Tue, Sep 29 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Go Global Hub #1: Discover Global Challenges",
@@ -55,6 +41,13 @@
             "date": "Mar 27\n\t\t\t\t\t~\n\t\t\t\t\tSep 30",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/doraemon-exhibition\/",
             "raw_text": "Mar 27 ~ Sep 30 100% Doraemon & Friends in Tokyo This is the very first event scheduled to take place at the city's new venue, Tokyo Dream Park. Read more ¥1,400 – ¥2,600 Art Ariake"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Wed, Sep\n\t\t\t\t30",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20260930\/",
+            "raw_text": "Wed, Sep 30 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Kawasaki Tama River Fireworks Festival",
@@ -134,6 +127,13 @@
             "raw_text": "Oct 1 ~ Oct 4 Hokkaidō Fair in Yoyogi Get a taste of what Hokkaidō has to offer at the the Hokkaidō Fair. Read more 10:00am – 7:00pm Free Food Harajuku"
         },
         {
+            "title": "Tokyo Manhole Exhibition",
+            "description": "Learn more about the manhole art scattered around Tokyo.",
+            "date": "Oct 3\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-manhole-exhibition\/",
+            "raw_text": "Oct 3 ~ Oct 4 Tokyo Manhole Exhibition Learn more about the manhole art scattered around Tokyo. Read more 11:00am – 7:00pm Free Anime Art Talk Ikebukuro"
+        },
+        {
             "title": "Odasaga Road Festival",
             "description": "Feel the community spirit at Sagamihara's Odasaga Road Festival.",
             "date": "Oct 3\n\t\t\t\t\t~\n\t\t\t\t\tOct 4",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-09-29T10:56:16+00:00"
+    "generated_at": "2026-09-30T10:46:39+00:00"
 }
