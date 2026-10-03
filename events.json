@@ -22,13 +22,6 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Fri, Oct\n\t\t\t\t02",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261002\/",
-            "raw_text": "Fri, Oct 02 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "Kawasaki Tama River Fireworks Festival",
             "description": "Twice the fireworks means twice the fun.",
             "date": "Sat, Oct\n\t\t\t\t03",
@@ -76,6 +69,13 @@
             "date": "Sat, Oct\n\t\t\t\t03",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/best-flea-market\/20261003\/",
             "raw_text": "Sat, Oct 03 “The Best Flea Market” (Yurakucho) Think everything from kimono to ceramics, and you'll understand why this market is called the best. Spend hours poring over the stalls, but be prepared to push through some crowds to grab that … Read more 10:00am – 4:00pm Free Market Yurakucho"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Sat, Oct\n\t\t\t\t03",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261003\/",
+            "raw_text": "Sat, Oct 03 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Weekend Comedy at TCB",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-02T10:45:38+00:00"
+    "generated_at": "2026-10-03T10:05:44+00:00"
 }
