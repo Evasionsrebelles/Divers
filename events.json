@@ -1,18 +1,18 @@
 {
     "events": [
         {
-            "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
-            "description": "Anime songs played live by a real band in a Shibuya basement.",
-            "date": "Tue, Oct\n\t\t\t\t06",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night-live-band-glow-stick-dance-wotagei\/",
-            "raw_text": "Tue, Oct 06 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
-        },
-        {
             "title": "English Noh: Blue Moon Over Memphis",
             "description": "An English-Language Noh performance featuring the king of rock 'n' roll.",
             "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/english-noh-blue-moon-over-memphis\/",
             "raw_text": "Oct 10 ~ Oct 11 Featured English Noh: Blue Moon Over Memphis An English-Language Noh performance featuring the king of rock 'n' roll. Read more ¥4,500 – ¥6,000 Show Theater Ikebukuro"
+        },
+        {
+            "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
+            "description": "Anime songs played live by a real band in a Shibuya basement.",
+            "date": "Tue, Oct\n\t\t\t\t20",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night-live-band-glow-stick-dance-wotagei\/",
+            "raw_text": "Tue, Oct 20 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
         },
         {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
@@ -22,18 +22,11 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Red Spider Lily Festival",
-            "description": "As the red Spider Lilies flower, the crowds once again gather.",
-            "date": "Sep 21\n\t\t\t\t\t~\n\t\t\t\t\tOct 6",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/red-spider-lily-festival\/",
-            "raw_text": "Sep 21 ~ Oct 6 Red Spider Lily Festival ★ Staff recommendation As the red Spider Lilies flower, the crowds once again gather. Read more 9:00am – 4:30pm ¥500 (at the door) Nature Hanno"
-        },
-        {
             "title": "Inokashira Park Art Markets",
             "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Tue, Oct\n\t\t\t\t06",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261006\/",
-            "raw_text": "Tue, Oct 06 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+            "date": "Wed, Oct\n\t\t\t\t07",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261007\/",
+            "raw_text": "Wed, Oct 07 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "On the Asymmetry of the Universe — teamLab Borderless Special Exhibition 2026",
@@ -162,13 +155,20 @@
             "raw_text": "Sun, Oct 11 Edogawa Citizens Festival The Edogawa Citizens Festival is a local celebration with mascot characters, performances, and local produce. Read more 9:00am – 4:00pm Free Festival Shinozaki"
         },
         {
-            "title": "Yokohama Jazz Promenade 2026",
-            "description": "Jazz takes over Yokohama.",
+            "title": "Meguro Grilled Pacific Saury Festival",
+            "description": "Get your fix of fresh fish, for free!",
+            "date": "Sun, Oct\n\t\t\t\t11",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/meguro-sanma-matsuri\/",
+            "raw_text": "Sun, Oct 11 Meguro Grilled Pacific Saury Festival Get your fix of fresh fish, for free! Read more 10:00am – 2:30pm Free Meguro"
+        },
+        {
+            "title": "Yanaka Festival",
+            "description": "Yanaka Matsuri is a community festival in the neighborhood of Yanaka.",
             "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/yokohama-jazz-promenade-2026\/",
-            "raw_text": "Oct 10 ~ Oct 11 Yokohama Jazz Promenade 2026 Jazz takes over Yokohama. Read more 12:00pm – 7:00pm ¥4,000 – ¥6,000 Festival Music Yokohama"
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/yanaka-matsuri\/",
+            "raw_text": "Oct 10 ~ Oct 11 Yanaka Festival Yanaka Matsuri is a community festival in the neighborhood of Yanaka. Read more 10:00am – 4:00pm Free Festival Yanaka"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-06T11:33:13+00:00"
+    "generated_at": "2026-10-07T11:23:26+00:00"
 }
