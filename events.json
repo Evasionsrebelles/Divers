@@ -22,18 +22,18 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Wed, Oct\n\t\t\t\t07",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261007\/",
-            "raw_text": "Wed, Oct 07 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "On the Asymmetry of the Universe — teamLab Borderless Special Exhibition 2026",
             "description": "The exhibition is included with standard admission to teamLab Borderless, so no separate ticket is needed.",
             "date": "Jul 8\n\t\t\t\t\t~\n\t\t\t\t\tOct 8",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/teamlab-borderless-special-exhibition\/",
             "raw_text": "Jul 8 ~ Oct 8 On the Asymmetry of the Universe — teamLab Borderless Special Exhibition 2026 The exhibition is included with standard admission to teamLab Borderless, so no separate ticket is needed. Read more Art Azabudai"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Thu, Oct\n\t\t\t\t08",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261008\/",
+            "raw_text": "Thu, Oct 08 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Shinjuku Park Cinema Festival 2026",
@@ -99,39 +99,11 @@
             "raw_text": "Oct 2 ~ Oct 11 Ark Hills Music Week 2026 Take a stroll around Minato City while enjoying a melange of music. Experience everything from classical concerts to starry serenades. Read more Free Music Akasaka Roppongi"
         },
         {
-            "title": "Nakano Okinawa Chanpuru Festival 2026",
-            "description": "An Okinawan festival in the heart of Tokyo.",
-            "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/nakano-chanpuru-festival\/",
-            "raw_text": "Oct 10 ~ Oct 11 Nakano Okinawa Chanpuru Festival 2026 An Okinawan festival in the heart of Tokyo. Read more Free Festival Nakano"
-        },
-        {
-            "title": "Nyan Fes",
-            "description": "Cat lovers should pounce on this festival, with cat themed merchandise and displays galore. Find the perfect gift for the furry friend in your life.",
-            "date": "Sun, Oct\n\t\t\t\t11",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/nyan-fes-autumn\/",
-            "raw_text": "Sun, Oct 11 Nyan Fes Cat lovers should pounce on this festival, with cat themed merchandise and displays galore. Find the perfect gift for the furry friend in your life. Read more 11:00am – 4:00pm ¥700 (advance sales)¥500 (at the door) Festival Market Asakusa"
-        },
-        {
             "title": "Ikebukuro Fukuro Festival (Yosakoi)",
             "description": "The two-part Fukuro Festival is one of the largest festivals in Ikebukuro.",
             "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/fukuro-festival-yosakoi\/",
             "raw_text": "Oct 10 ~ Oct 11 Ikebukuro Fukuro Festival (Yosakoi) The two-part Fukuro Festival is one of the largest festivals in Ikebukuro. Read more 10:30am – 7:30pm Free Festival Ikebukuro"
-        },
-        {
-            "title": "Nambu Line Beer Marche",
-            "description": "Find your new favorite Tokyo brewery.",
-            "date": "Early ~ Mid Oct",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/nambu-line-beer-marche\/",
-            "raw_text": "Early ~ Mid Oct Nambu Line Beer Marche Find your new favorite Tokyo brewery. Read more Free Beer Festival Suburban West Tokyo"
-        },
-        {
-            "title": "Sakura Fall Festival",
-            "description": "Check out Edo-style floats and portable shrines at this local dance celebration.",
-            "date": "Oct 9\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/sakura-fall-festival\/",
-            "raw_text": "Oct 9 ~ Oct 11 Sakura Fall Festival Check out Edo-style floats and portable shrines at this local dance celebration. Read more 3:00pm – 10:00pm Free Festival Sakura"
         },
         {
             "title": "Bake Neko (Supernatural Cat) Festival",
@@ -155,20 +127,48 @@
             "raw_text": "Sun, Oct 11 Edogawa Citizens Festival The Edogawa Citizens Festival is a local celebration with mascot characters, performances, and local produce. Read more 9:00am – 4:00pm Free Festival Shinozaki"
         },
         {
+            "title": "Nambu Line Beer Marche",
+            "description": "Find your new favorite Tokyo brewery.",
+            "date": "Early ~ Mid Oct",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/nambu-line-beer-marche\/",
+            "raw_text": "Early ~ Mid Oct Nambu Line Beer Marche Find your new favorite Tokyo brewery. Read more Free Beer Festival Suburban West Tokyo"
+        },
+        {
+            "title": "Sakura Fall Festival",
+            "description": "Check out Edo-style floats and portable shrines at this local dance celebration.",
+            "date": "Oct 9\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/sakura-fall-festival\/",
+            "raw_text": "Oct 9 ~ Oct 11 Sakura Fall Festival Check out Edo-style floats and portable shrines at this local dance celebration. Read more 3:00pm – 10:00pm Free Festival Sakura"
+        },
+        {
+            "title": "UNU Farmers Market",
+            "description": "Pick up fresh veg and much, much more.",
+            "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/unu-farmers-market\/",
+            "raw_text": "Oct 10 ~ Oct 11 UNU Farmers Market Pick up fresh veg and much, much more. Read more 10:00am – 4:00pm Free Market Shibuya"
+        },
+        {
+            "title": "Nakano Okinawa Chanpuru Festival 2026",
+            "description": "An Okinawan festival in the heart of Tokyo.",
+            "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/nakano-chanpuru-festival\/",
+            "raw_text": "Oct 10 ~ Oct 11 Nakano Okinawa Chanpuru Festival 2026 An Okinawan festival in the heart of Tokyo. Read more Free Festival Nakano"
+        },
+        {
+            "title": "Nyan Fes",
+            "description": "Cat lovers should pounce on this festival, with cat themed merchandise and displays galore. Find the perfect gift for the furry friend in your life.",
+            "date": "Sun, Oct\n\t\t\t\t11",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/nyan-fes-autumn\/",
+            "raw_text": "Sun, Oct 11 Nyan Fes Cat lovers should pounce on this festival, with cat themed merchandise and displays galore. Find the perfect gift for the furry friend in your life. Read more 11:00am – 4:00pm ¥700 (advance sales)¥500 (at the door) Festival Market Asakusa"
+        },
+        {
             "title": "Meguro Grilled Pacific Saury Festival",
             "description": "Get your fix of fresh fish, for free!",
             "date": "Sun, Oct\n\t\t\t\t11",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/meguro-sanma-matsuri\/",
             "raw_text": "Sun, Oct 11 Meguro Grilled Pacific Saury Festival Get your fix of fresh fish, for free! Read more 10:00am – 2:30pm Free Meguro"
-        },
-        {
-            "title": "Yanaka Festival",
-            "description": "Yanaka Matsuri is a community festival in the neighborhood of Yanaka.",
-            "date": "Oct 10\n\t\t\t\t\t~\n\t\t\t\t\tOct 11",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/yanaka-matsuri\/",
-            "raw_text": "Oct 10 ~ Oct 11 Yanaka Festival Yanaka Matsuri is a community festival in the neighborhood of Yanaka. Read more 10:00am – 4:00pm Free Festival Yanaka"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-07T11:23:26+00:00"
+    "generated_at": "2026-10-08T11:39:10+00:00"
 }
