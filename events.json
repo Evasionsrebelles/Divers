@@ -15,6 +15,13 @@
             "raw_text": "Tue, Oct 20 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
         },
         {
+            "title": "Ginza Sumo Show with Dinner",
+            "description": "Experience sumo culture and Japanese cuisine in Ginza.",
+            "date": "Oct 9\n\t\t\t\t\t~\n\t\t\t\t\tOct 23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/ginza-sumo-show-with-dinner\/",
+            "raw_text": "Oct 9 ~ Oct 23 Featured Ginza Sumo Show with Dinner Experience sumo culture and Japanese cuisine in Ginza. Read more 5:00pm – 7:00pm ¥19,000 – ¥23,000 Food Show Sport Ginza"
+        },
+        {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
             "description": "Cuddle up to some love songs by candlelight.",
             "date": "Fri, Oct\n\t\t\t\t30",
@@ -22,18 +29,11 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
-            "title": "On the Asymmetry of the Universe — teamLab Borderless Special Exhibition 2026",
-            "description": "The exhibition is included with standard admission to teamLab Borderless, so no separate ticket is needed.",
-            "date": "Jul 8\n\t\t\t\t\t~\n\t\t\t\t\tOct 8",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/teamlab-borderless-special-exhibition\/",
-            "raw_text": "Jul 8 ~ Oct 8 On the Asymmetry of the Universe — teamLab Borderless Special Exhibition 2026 The exhibition is included with standard admission to teamLab Borderless, so no separate ticket is needed. Read more Art Azabudai"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Thu, Oct\n\t\t\t\t08",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261008\/",
-            "raw_text": "Thu, Oct 08 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
+            "title": "Performing Arts Festival: Autumn Meteorite 2026 Tokyo",
+            "description": "Tokyo Performing Arts Festival rebrands with a fresh look and program in 2025.",
+            "date": "Oct 9\n\t\t\t\t\t~\n\t\t\t\t\tNov 3",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-arts-festival-ikebukuro\/",
+            "raw_text": "Oct 9 ~ Nov 3 Featured Performing Arts Festival: Autumn Meteorite 2026 Tokyo Tokyo Performing Arts Festival rebrands with a fresh look and program in 2025. Read more Art Dance Theater Tour Ikebukuro"
         },
         {
             "title": "Shinjuku Park Cinema Festival 2026",
@@ -41,6 +41,13 @@
             "date": "Oct 7\n\t\t\t\t\t~\n\t\t\t\t\tOct 9",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/shinjuku-park-cinema-festival\/",
             "raw_text": "Oct 7 ~ Oct 9 Shinjuku Park Cinema Festival 2026 Go out and watch a movie in Shinjuku. Read more 5:00pm – 9:30pm Free Film Shinjuku"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Fri, Oct\n\t\t\t\t09",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261009\/",
+            "raw_text": "Fri, Oct 09 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Kōnosu Fireworks Festival",
@@ -160,15 +167,8 @@
             "date": "Sun, Oct\n\t\t\t\t11",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/nyan-fes-autumn\/",
             "raw_text": "Sun, Oct 11 Nyan Fes Cat lovers should pounce on this festival, with cat themed merchandise and displays galore. Find the perfect gift for the furry friend in your life. Read more 11:00am – 4:00pm ¥700 (advance sales)¥500 (at the door) Festival Market Asakusa"
-        },
-        {
-            "title": "Meguro Grilled Pacific Saury Festival",
-            "description": "Get your fix of fresh fish, for free!",
-            "date": "Sun, Oct\n\t\t\t\t11",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/meguro-sanma-matsuri\/",
-            "raw_text": "Sun, Oct 11 Meguro Grilled Pacific Saury Festival Get your fix of fresh fish, for free! Read more 10:00am – 2:30pm Free Meguro"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-08T11:39:10+00:00"
+    "generated_at": "2026-10-09T11:32:26+00:00"
 }
