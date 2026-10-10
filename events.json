@@ -36,20 +36,6 @@
             "raw_text": "Oct 9 ~ Nov 3 Featured Performing Arts Festival: Autumn Meteorite 2026 Tokyo Tokyo Performing Arts Festival rebrands with a fresh look and program in 2025. Read more Art Dance Theater Tour Ikebukuro"
         },
         {
-            "title": "Shinjuku Park Cinema Festival 2026",
-            "description": "Go out and watch a movie in Shinjuku.",
-            "date": "Oct 7\n\t\t\t\t\t~\n\t\t\t\t\tOct 9",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shinjuku-park-cinema-festival\/",
-            "raw_text": "Oct 7 ~ Oct 9 Shinjuku Park Cinema Festival 2026 Go out and watch a movie in Shinjuku. Read more 5:00pm – 9:30pm Free Film Shinjuku"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Fri, Oct\n\t\t\t\t09",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261009\/",
-            "raw_text": "Fri, Oct 09 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "Kōnosu Fireworks Festival",
             "description": "These fireworks go big. Really big.",
             "date": "Sat, Oct\n\t\t\t\t10",
@@ -69,6 +55,13 @@
             "date": "Sat, Oct\n\t\t\t\t10",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-river-clean\/20261010\/",
             "raw_text": "Sat, Oct 10 Tokyo River Clean-Up Enjoy some small talk and the feeling of warmth for doing your part to keep Tokyo's rivers clean and beautiful. Read more Free Volunteering Edogawa"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Sat, Oct\n\t\t\t\t10",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261010\/",
+            "raw_text": "Sat, Oct 10 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Candlelight Concert: A Tribute to Joe Hisaishi (Studio Ghibli)",
@@ -167,8 +160,15 @@
             "date": "Sun, Oct\n\t\t\t\t11",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/nyan-fes-autumn\/",
             "raw_text": "Sun, Oct 11 Nyan Fes Cat lovers should pounce on this festival, with cat themed merchandise and displays galore. Find the perfect gift for the furry friend in your life. Read more 11:00am – 4:00pm ¥700 (advance sales)¥500 (at the door) Festival Market Asakusa"
+        },
+        {
+            "title": "Meguro Grilled Pacific Saury Festival",
+            "description": "Get your fix of fresh fish, for free!",
+            "date": "Sun, Oct\n\t\t\t\t11",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/meguro-sanma-matsuri\/",
+            "raw_text": "Sun, Oct 11 Meguro Grilled Pacific Saury Festival Get your fix of fresh fish, for free! Read more 10:00am – 2:30pm Free Meguro"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-09T11:32:26+00:00"
+    "generated_at": "2026-10-10T10:50:21+00:00"
 }
