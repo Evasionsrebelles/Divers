@@ -29,20 +29,6 @@
             "raw_text": "Oct 9 ~ Nov 3 Featured Performing Arts Festival: Autumn Meteorite 2026 Tokyo Tokyo Performing Arts Festival rebrands with a fresh look and program in 2025. Read more Art Dance Theater Tour Ikebukuro"
         },
         {
-            "title": "CEATEC 2026",
-            "description": "See exhibits of the latest tech from national and international mega-corporations at this trade show. If you're interested in consumer electronics, stop by.",
-            "date": "Oct 13\n\t\t\t\t\t~\n\t\t\t\t\tOct 16",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/ceatec\/",
-            "raw_text": "Oct 13 ~ Oct 16 CEATEC 2026 See exhibits of the latest tech from national and international mega-corporations at this trade show. If you're interested in consumer electronics, stop by. Read more 10:00am – 5:00pm Trade Show Makuhari"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Fri, Oct\n\t\t\t\t16",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261016\/",
-            "raw_text": "Fri, Oct 16 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "Weekend Comedy at TCB",
             "description": "Tokyo Comedy Bar offers some of the best chuckles in Tokyo.",
             "date": "Sat, Oct\n\t\t\t\t17",
@@ -83,6 +69,13 @@
             "date": "Sat, Oct\n\t\t\t\t17",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/nezu-shrine-markets\/20261017\/",
             "raw_text": "Sat, Oct 17 Markets at Nezu Shrine Pop down to Nezu Shrine for these shrine markets, taking place roughly twice a month. Read more Free Market Nezu"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Sat, Oct\n\t\t\t\t17",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261017\/",
+            "raw_text": "Sat, Oct 17 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Back From The Grave: Halloween Ball",
@@ -167,8 +160,15 @@
             "date": "Sun, Oct\n\t\t\t\t18",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/ikebukuro-flea-market\/",
             "raw_text": "Sun, Oct 18 Ikebukuro Flea Market This flea market in Ikebukuro is worth checking out. Read more 9:00am – 3:00pm Free Market Ikebukuro"
+        },
+        {
+            "title": "Shimokitazawa Flea Market",
+            "description": "Find your next dream flea market treasure at this trendy market in Shimokitazawa.",
+            "date": "Oct 16\n\t\t\t\t\t~\n\t\t\t\t\tOct 18",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shimokitazawa-flea-market\/",
+            "raw_text": "Oct 16 ~ Oct 18 Shimokitazawa Flea Market Find your next dream flea market treasure at this trendy market in Shimokitazawa. Read more 12:00pm – 5:00pm Free Market Shimokitazawa"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-16T09:21:31+00:00"
+    "generated_at": "2026-10-17T08:53:00+00:00"
 }
