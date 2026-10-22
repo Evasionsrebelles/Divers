@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "Ginza Sumo Show with Dinner",
-            "description": "Experience sumo culture and Japanese cuisine in Ginza.",
-            "date": "Oct 9\n\t\t\t\t\t~\n\t\t\t\t\tOct 23",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/ginza-sumo-show-with-dinner\/",
-            "raw_text": "Oct 9 ~ Oct 23 Featured Ginza Sumo Show with Dinner Experience sumo culture and Japanese cuisine in Ginza. Read more 5:00pm – 7:00pm ¥19,000 – ¥23,000 Food Show Sport Ginza"
-        },
-        {
             "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
             "description": "Anime songs played live by a real band in a Shibuya basement.",
             "date": "Tue, Oct\n\t\t\t\t27",
@@ -22,6 +15,13 @@
             "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
         },
         {
+            "title": "Ginza Sumo Show with Dinner",
+            "description": "Experience sumo culture and Japanese cuisine in Ginza.",
+            "date": "Oct 22\n\t\t\t\t\t~\n\t\t\t\t\tNov 6",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/ginza-sumo-show-with-dinner\/",
+            "raw_text": "Oct 22 ~ Nov 6 Featured Ginza Sumo Show with Dinner Experience sumo culture and Japanese cuisine in Ginza. Read more 5:00pm – 7:00pm ¥19,000 – ¥23,000 Food Show Sport Ginza"
+        },
+        {
             "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
             "description": "Anime songs played live by a real band in a Shibuya basement.",
             "date": "Tue, Nov\n\t\t\t\t10",
@@ -29,18 +29,18 @@
             "raw_text": "Tue, Nov 10 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
         },
         {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Wed, Oct\n\t\t\t\t21",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261021\/",
-            "raw_text": "Wed, Oct 21 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "Kaze no Kai Shakuhachi Concert",
             "description": "Master shakuhachi musicians perform at this free concert.",
             "date": "Thu, Oct\n\t\t\t\t22",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/kaze-no-kai-shakuhachi-concert\/",
             "raw_text": "Thu, Oct 22 Kaze no Kai Shakuhachi Concert Master shakuhachi musicians perform at this free concert. Read more 6:30pm – 8:00pm Free Music Kokubunji"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Thu, Oct\n\t\t\t\t22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261022\/",
+            "raw_text": "Thu, Oct 22 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Tokyo Poetry Week 2026",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-21T09:42:33+00:00"
+    "generated_at": "2026-10-22T09:42:09+00:00"
 }
