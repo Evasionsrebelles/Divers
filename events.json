@@ -12,7 +12,7 @@
             "description": "Cuddle up to some love songs by candlelight.",
             "date": "Fri, Oct\n\t\t\t\t30",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/candlelight-concert-a-collection-of-great-love-songs\/",
-            "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥4,000 – ¥8,100 Music Shinjuku"
+            "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥3,700 – ¥7,500 Music Shinjuku"
         },
         {
             "title": "Ginza Sumo Show with Dinner",
@@ -29,25 +29,18 @@
             "raw_text": "Tue, Nov 10 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
         },
         {
-            "title": "Kaze no Kai Shakuhachi Concert",
-            "description": "Master shakuhachi musicians perform at this free concert.",
-            "date": "Thu, Oct\n\t\t\t\t22",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/kaze-no-kai-shakuhachi-concert\/",
-            "raw_text": "Thu, Oct 22 Kaze no Kai Shakuhachi Concert Master shakuhachi musicians perform at this free concert. Read more 6:30pm – 8:00pm Free Music Kokubunji"
-        },
-        {
-            "title": "Inokashira Park Art Markets",
-            "description": "The market is all about connecting visitors with independent artists.",
-            "date": "Thu, Oct\n\t\t\t\t22",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261022\/",
-            "raw_text": "Thu, Oct 22 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
-        },
-        {
             "title": "Tokyo Poetry Week 2026",
             "description": "Get involved in Tokyo's vibrant poetry scene with events around the city.",
             "date": "Oct 13\n\t\t\t\t\t~\n\t\t\t\t\tOct 23",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-poetry-week\/",
             "raw_text": "Oct 13 ~ Oct 23 Tokyo Poetry Week 2026 Get involved in Tokyo's vibrant poetry scene with events around the city. Read more 7:00pm – 10:00pm ¥0 – ¥1,000 Art Music Show Talk Workshop Daikanyama Koenji Nihonbashi"
+        },
+        {
+            "title": "Inokashira Park Art Markets",
+            "description": "The market is all about connecting visitors with independent artists.",
+            "date": "Fri, Oct\n\t\t\t\t23",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/inokashira-park-art-markets\/20261023\/",
+            "raw_text": "Fri, Oct 23 Inokashira Park Art Markets The market is all about connecting visitors with independent artists. Read more 10:00am – 4:00pm Free Market Kichijōji"
         },
         {
             "title": "Tokyo Bay Fireworks Festival 2026",
@@ -167,8 +160,15 @@
             "date": "Oct 21\n\t\t\t\t\t~\n\t\t\t\t\tOct 25",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-night-market\/",
             "raw_text": "Oct 21 ~ Oct 25 Tokyo Night Market A market under the stars awaits at the Tokyo Night Market. Read more Free Market Yoyogi"
+        },
+        {
+            "title": "Earth Garden Fall Festival",
+            "description": "Earth Garden is a sustainability focused festival with market stalls, workshops, and live entertainment.",
+            "date": "Oct 24\n\t\t\t\t\t~\n\t\t\t\t\tOct 25",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/earth-garden-fall-festival\/",
+            "raw_text": "Oct 24 ~ Oct 25 Earth Garden Fall Festival Earth Garden is a sustainability focused festival with market stalls, workshops, and live entertainment. Read more 10:00am – 5:00pm Free Market Yoyogi"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-22T09:42:09+00:00"
+    "generated_at": "2026-10-23T09:38:06+00:00"
 }
