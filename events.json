@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
-            "description": "Anime songs played live by a real band in a Shibuya basement.",
-            "date": "Tue, Oct\n\t\t\t\t27",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night-live-band-glow-stick-dance-wotagei\/",
-            "raw_text": "Tue, Oct 27 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
-        },
-        {
             "title": "Candlelight Concert:  A Collection of Great Love Songs",
             "description": "Cuddle up to some love songs by candlelight.",
             "date": "Fri, Oct\n\t\t\t\t30",
@@ -27,6 +20,13 @@
             "date": "Tue, Nov\n\t\t\t\t10",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night-live-band-glow-stick-dance-wotagei-november-2026\/",
             "raw_text": "Tue, Nov 10 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
+        },
+        {
+            "title": "Tim Burton’s Labyrinth",
+            "description": "The weird and wonderful worlds of Edward Scissorhands, Beetlejuice, and The Nightmare Before Christmas are heading to Toyosu this winter. Tim Burton’s Labyrinth, the immersive exhibition …",
+            "date": "Nov 25\n\t\t\t\t\t~\n\t\t\t\t\tFeb 21 2027",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tim-burtons-labyrinth\/",
+            "raw_text": "Nov 25 ~ Feb 21 2027 Featured Tim Burton’s Labyrinth The weird and wonderful worlds of Edward Scissorhands, Beetlejuice, and The Nightmare Before Christmas are heading to Toyosu this winter. Tim Burton’s Labyrinth, the immersive exhibition … Read more ¥2,200 – ¥10,000 Art Toyosu"
         },
         {
             "title": "Aaron Chen: Technology",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-27T10:05:20+00:00"
+    "generated_at": "2026-10-28T10:52:19+00:00"
 }
