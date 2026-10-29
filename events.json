@@ -29,34 +29,6 @@
             "raw_text": "Nov 25 ~ Feb 21 2027 Featured Tim Burton’s Labyrinth The weird and wonderful worlds of Edward Scissorhands, Beetlejuice, and The Nightmare Before Christmas are heading to Toyosu this winter. Tim Burton’s Labyrinth, the immersive exhibition … Read more ¥2,200 – ¥10,000 Art Toyosu"
         },
         {
-            "title": "Aaron Chen: Technology",
-            "description": "Australian comedian Aaron Chen brings his latest show to Tokyo.",
-            "date": "Wed, Oct\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/aaron-chen-technology\/",
-            "raw_text": "Wed, Oct 28 Aaron Chen: Technology Australian comedian Aaron Chen brings his latest show to Tokyo. Read more 6:00pm – 7:00pm ¥11,000 (advance sales) Comedy Yurakucho"
-        },
-        {
-            "title": "Free Shakuhachi Concert in Tokyo",
-            "description": "It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute.",
-            "date": "Wed, Oct\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/free-shakuhachi-concert\/",
-            "raw_text": "Wed, Oct 28 Free Shakuhachi Concert in Tokyo It's not every day that you get to listen to the shakuhachi, Japan's traditional bamboo flute. Read more 6:00pm – 9:00pm Free Music Akasaka"
-        },
-        {
-            "title": "Naritasan Kawagoe Betsuin Flea Market",
-            "description": "Hunt for bargains in Little Edo.",
-            "date": "Wed, Oct\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/naritasan-kawagoe-betsuin-flea-market\/",
-            "raw_text": "Wed, Oct 28 Naritasan Kawagoe Betsuin Flea Market Hunt for bargains in Little Edo. Read more 6:00am – 2:00pm Free Market Kawagoe"
-        },
-        {
-            "title": "Tomioka Hachimangū Shrine Antique Fair & Flea Market",
-            "description": "The antique fair leans toward curated, higher-value items, while the flea market is more eclectic.",
-            "date": "Wed, Oct\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tomioka-hachimangu-markets\/",
-            "raw_text": "Wed, Oct 28 Tomioka Hachimangū Shrine Antique Fair & Flea Market The antique fair leans toward curated, higher-value items, while the flea market is more eclectic. Read more 8:00am – 3:00pm Free Market Fukagawa"
-        },
-        {
             "title": "Benson Boone Live in Tokyo",
             "description": "The “Beautiful Things” singer goes arena-sized for his Tokyo return.",
             "date": "Thu, Oct\n\t\t\t\t29",
@@ -75,7 +47,7 @@
             "description": "Two days of jazz in the streets, cafés, shrines, and churches of Asagaya.",
             "date": "Oct 30\n\t\t\t\t\t~\n\t\t\t\t\tOct 31",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/asagaya-jazz-festival\/",
-            "raw_text": "Oct 30 ~ Oct 31 Asagaya Jazz Festival Two days of jazz in the streets, cafés, shrines, and churches of Asagaya. Read more – ¥3,500 Festival Music Asagaya"
+            "raw_text": "Oct 30 ~ Oct 31 Asagaya Jazz Festival Two days of jazz in the streets, cafés, shrines, and churches of Asagaya. Read more ¥2,000 – ¥3,500 Festival Music Asagaya"
         },
         {
             "title": "Sunshine City Halloween",
@@ -167,8 +139,36 @@
             "date": "Sat, Oct\n\t\t\t\t31",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-river-clean\/",
             "raw_text": "Sat, Oct 31 Tokyo River Clean-Up Enjoy some small talk and the feeling of warmth for doing your part to keep Tokyo's rivers clean and beautiful. Read more Free Volunteering Edogawa"
+        },
+        {
+            "title": "Weekend Comedy at TCB",
+            "description": "Tokyo Comedy Bar offers some of the best chuckles in Tokyo.",
+            "date": "Sat, Oct\n\t\t\t\t31",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/weekend-comedy-tcb\/20261031\/",
+            "raw_text": "Sat, Oct 31 Weekend Comedy at TCB ★ Staff recommendation Tokyo Comedy Bar offers some of the best chuckles in Tokyo. Read more 7:30pm – 10:00pm ¥3,000 (advance sales) Comedy Shibuya"
+        },
+        {
+            "title": "Tamariba (Tama Riverside Festival)",
+            "description": "Each fall, a stretch of Tama River riverbank in Komae turns into Tamariba, a free two-day festival of live music, street food, craft beer and makers’ stalls, with canoes and kayaks out on …",
+            "date": "Oct 31\n\t\t\t\t\t~\n\t\t\t\t\tNov 1",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tamariba\/",
+            "raw_text": "Oct 31 ~ Nov 1 Tamariba (Tama Riverside Festival) Each fall, a stretch of Tama River riverbank in Komae turns into Tamariba, a free two-day festival of live music, street food, craft beer and makers’ stalls, with canoes and kayaks out on … Read more Free Festival Food Market Music Suburban West Tokyo"
+        },
+        {
+            "title": "Araiyakushi Antique Market",
+            "description": "Once a month, the grounds of a Nakano temple fill up with antique dealers and rare finds. What happens? The Araiyakushi Antique Market spreads out across the grounds of Arai Yakushi Baishōin …",
+            "date": "Sun, Nov\n\t\t\t\t01",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/araiyakushi-antique-market\/",
+            "raw_text": "Sun, Nov 01 Araiyakushi Antique Market Once a month, the grounds of a Nakano temple fill up with antique dealers and rare finds. What happens? The Araiyakushi Antique Market spreads out across the grounds of Arai Yakushi Baishōin … Read more 6:00am – 3:00pm Free Market Nakano"
+        },
+        {
+            "title": "Isseikai 2026: Japanese Dance Meets Kyōgen",
+            "description": "Classical dance, kyōgen comedy, and a brand-new piece about two men and a lot of folded paper.",
+            "date": "Oct 31\n\t\t\t\t\t~\n\t\t\t\t\tNov 1",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/isseikai-japanese-dance-meets-kyogen\/",
+            "raw_text": "Oct 31 ~ Nov 1 Isseikai 2026: Japanese Dance Meets Kyōgen Classical dance, kyōgen comedy, and a brand-new piece about two men and a lot of folded paper. Read more ¥8,000 (advance sales) Dance Theater Shibuya"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-28T10:52:19+00:00"
+    "generated_at": "2026-10-29T11:08:38+00:00"
 }
