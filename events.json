@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "Candlelight Concert:  A Collection of Great Love Songs",
-            "description": "Cuddle up to some love songs by candlelight.",
-            "date": "Fri, Oct\n\t\t\t\t30",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/candlelight-concert-a-collection-of-great-love-songs\/",
-            "raw_text": "Fri, Oct 30 Featured Candlelight Concert: A Collection of Great Love Songs Cuddle up to some love songs by candlelight. Read more 7:00pm – 8:00pm ¥3,700 – ¥7,500 Music Shinjuku"
-        },
-        {
             "title": "Ginza Sumo Show with Dinner",
             "description": "Experience sumo culture and Japanese cuisine in Ginza.",
             "date": "Oct 22\n\t\t\t\t\t~\n\t\t\t\t\tNov 6",
@@ -167,8 +160,15 @@
             "date": "Sun, Nov\n\t\t\t\t01",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/dia-de-muertos-tokyo-in-takeshiba\/",
             "raw_text": "Sun, Nov 01 Dia de Muertos Tokyo 2026 Mexican Day of the Dead festival with music, dance, and family activities. Read more 12:00pm – 7:00pm Free Festival Music Takeshiba"
+        },
+        {
+            "title": "Traces of Being: Solo Exhibition by Baday",
+            "description": "Traces of Being is a solo photography exhibition by Baday at Gallery Rustico in Kōenji. The photographs trace fragments of encounters between the photographer and the world — and entry is free. …",
+            "date": "Oct 28\n\t\t\t\t\t~\n\t\t\t\t\tNov 1",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/traces-of-being-solo-exhibition-by-baday\/",
+            "raw_text": "Oct 28 ~ Nov 1 Traces of Being: Solo Exhibition by Baday Traces of Being is a solo photography exhibition by Baday at Gallery Rustico in Kōenji. The photographs trace fragments of encounters between the photographer and the world — and entry is free. … Read more Free Art Koenji"
         }
     ],
     "count": 24,
-    "generated_at": "2026-10-30T11:03:21+00:00"
+    "generated_at": "2026-10-31T10:38:08+00:00"
 }
