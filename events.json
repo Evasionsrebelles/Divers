@@ -8,6 +8,13 @@
             "raw_text": "Tue, Nov 24 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
         },
         {
+            "title": "Pirates of Tokyo Bay: English & Japanese Improv Comedy 16th Anniversary Show",
+            "description": "The Pirates of Tokyo Bay presents bilingual improv comedy shows every month in Shibuya.",
+            "date": "Sun, Nov\n\t\t\t\t29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/pirates-tokyo-bay-bilingual-comedy-show\/",
+            "raw_text": "Sun, Nov 29 Featured Pirates of Tokyo Bay: English & Japanese Improv Comedy 16th Anniversary Show The Pirates of Tokyo Bay presents bilingual improv comedy shows every month in Shibuya. Read more 7:30pm – 9:15pm ¥2,500 (advance sales)¥2,500 (at the door) Comedy Ebisu"
+        },
+        {
             "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
             "description": "Anime songs played live by a real band in a Shibuya basement.",
             "date": "Tue, Dec\n\t\t\t\t01",
@@ -29,27 +36,6 @@
             "raw_text": "Nov 25 ~ Feb 21 2027 Featured Tim Burton’s Labyrinth The weird and wonderful worlds of Edward Scissorhands, Beetlejuice, and The Nightmare Before Christmas are heading to Toyosu this winter. Tim Burton’s Labyrinth, the immersive exhibition … Read more ¥2,200 – ¥10,000 Art Toyosu"
         },
         {
-            "title": "Asakusa Tori-no-ichi Fair II",
-            "description": "The second part of Asakusa's Tori-no-Ichi Fair.",
-            "date": "Thu, Nov\n\t\t\t\t19",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/asakusa-tori-ichi-fair-part-ii\/",
-            "raw_text": "Thu, Nov 19 Asakusa Tori-no-ichi Fair II The second part of Asakusa's Tori-no-Ichi Fair. Read more 12:00am – 12:00am Free Market Asakusa"
-        },
-        {
-            "title": "Shinjuku Tori-no-ichi Fair II",
-            "description": "The second part of Shinjuku's Tori-no-Ichi Fair.",
-            "date": "Thu, Nov\n\t\t\t\t19",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shinjuku-tori-no-ichi-fair-ii\/",
-            "raw_text": "Thu, Nov 19 Shinjuku Tori-no-ichi Fair II The second part of Shinjuku's Tori-no-Ichi Fair. Read more 12:00am – 12:00am Free Festival Market Shinjuku"
-        },
-        {
-            "title": "Fuchu Tori-no-Ichi Fair II",
-            "description": "An annual opportunity to improve your fortunes in the coming year, Fuchu's Tori no Ichi festival comes in multiple installments and includes a masked performance to enjoy.",
-            "date": "Thu, Nov\n\t\t\t\t19",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/fuchu-tori-no-ichi-fair-ii\/",
-            "raw_text": "Thu, Nov 19 Fuchu Tori-no-Ichi Fair II An annual opportunity to improve your fortunes in the coming year, Fuchu's Tori no Ichi festival comes in multiple installments and includes a masked performance to enjoy. Read more 12:00am – 12:00am Free Festival Market Show Fuchu"
-        },
-        {
             "title": "Weekend Comedy at TCB",
             "description": "Tokyo Comedy Bar offers some of the best chuckles in Tokyo.",
             "date": "Sat, Nov\n\t\t\t\t21",
@@ -57,18 +43,18 @@
             "raw_text": "Sat, Nov 21 Weekend Comedy at TCB ★ Staff recommendation Tokyo Comedy Bar offers some of the best chuckles in Tokyo. Read more 7:30pm – 10:00pm ¥3,000 (advance sales) Comedy Shibuya"
         },
         {
-            "title": "Koedo Kawagoe Fireworks Festival",
-            "description": "An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one.",
-            "date": "Sat, Nov\n\t\t\t\t21",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/koedo-kawagoe-fireworks-festival\/",
-            "raw_text": "Sat, Nov 21 Koedo Kawagoe Fireworks Festival An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one. Read more 6:00pm – 7:10pm Free Festival Fireworks Kawagoe Saitama"
-        },
-        {
             "title": "Kōenji Picnic Marche",
             "description": "Free monthly market with bread, sweets, coffee and crafts at Flat Sugihachi in Koenji.",
             "date": "Sat, Nov\n\t\t\t\t21",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/koenji-picnic-marche\/",
             "raw_text": "Sat, Nov 21 Kōenji Picnic Marche Free monthly market with bread, sweets, coffee and crafts at Flat Sugihachi in Koenji. Read more 11:00am – 5:00pm Free Food Market Koenji"
+        },
+        {
+            "title": "Koedo Kawagoe Fireworks Festival",
+            "description": "An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one.",
+            "date": "Sat, Nov\n\t\t\t\t21",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/koedo-kawagoe-fireworks-festival\/",
+            "raw_text": "Sat, Nov 21 Koedo Kawagoe Fireworks Festival An hour of autumn fireworks on the edge of Kawagoe, free to watch, with chairs from 4,400 yen if you want one. Read more 6:00pm – 7:10pm Free Festival Fireworks Kawagoe Saitama"
         },
         {
             "title": "Shinjuku Chuo Park Flea Market",
@@ -167,8 +153,22 @@
             "date": "Nov 21\n\t\t\t\t\t~\n\t\t\t\t\tNov 22",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/hachioji-ginkgo-festival\/",
             "raw_text": "Nov 21 ~ Nov 22 Hachiōji Ginkgo Festival Golden ginkgo trees, festival stalls, and a trail of old-style checkpoints. Read more Free Festival Hachiōji"
+        },
+        {
+            "title": "World Character Summit in Hanyū",
+            "description": "The once-a-year chance to meet mascots from all over Japan — and the world.",
+            "date": "Nov 21\n\t\t\t\t\t~\n\t\t\t\t\tNov 22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/world-character-summit\/",
+            "raw_text": "Nov 21 ~ Nov 22 World Character Summit in Hanyū The once-a-year chance to meet mascots from all over Japan — and the world. Read more 10:00am – 3:00pm Free Anime Food Trade Show Hanyu"
+        },
+        {
+            "title": "Hakkeijima Sea Paradise Fireworks",
+            "description": "Watch 2,500 digitally synchronized fireworks light up the summer night sky.",
+            "date": "Sun, Nov\n\t\t\t\t22",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/hakkeijima-sea-paradise-fireworks\/20261122\/",
+            "raw_text": "Sun, Nov 22 Hakkeijima Sea Paradise Fireworks Watch 2,500 digitally synchronized fireworks light up the summer night sky. Read more 8:30pm – 8:40pm ¥2,000 – ¥8,900 Fireworks Yokohama and Kanagawa"
         }
     ],
     "count": 24,
-    "generated_at": "2026-11-19T13:58:20+00:00"
+    "generated_at": "2026-11-20T13:39:36+00:00"
 }
