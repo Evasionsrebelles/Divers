@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei)",
-            "description": "Anime songs played live by a real band in a Shibuya basement.",
-            "date": "Tue, Nov\n\t\t\t\t24",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-anime-music-night-live-band-glow-stick-dance-wotagei-november-2026\/",
-            "raw_text": "Tue, Nov 24 Featured Shibuya Anime Music Night: Live Band + Glow Stick Dance (Wotagei) Anime songs played live by a real band in a Shibuya basement. Read more 6:30pm – 9:00pm ¥2,100 (advance sales)¥2,500 (at the door) Anime Dance Music Shibuya"
-        },
-        {
             "title": "Pirates of Tokyo Bay: English & Japanese Improv Comedy 16th Anniversary Show",
             "description": "The Pirates of Tokyo Bay presents bilingual improv comedy shows every month in Shibuya.",
             "date": "Sun, Nov\n\t\t\t\t29",
@@ -29,18 +22,18 @@
             "raw_text": "Nov 18 ~ Dec 2 Featured Ginza Sumo Show with Dinner Experience sumo culture and Japanese cuisine in Ginza. Read more 5:00pm – 7:00pm ¥19,000 – ¥23,000 Food Show Sport Ginza"
         },
         {
+            "title": "Candlelight Concert: The Lord of the Rings",
+            "description": "Howard Shore's Lord of the Rings music by candlelight in Ginza on Christmas Day.",
+            "date": "Fri, Dec\n\t\t\t\t25",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/candlelight-concert-the-lord-of-the-rings\/",
+            "raw_text": "Fri, Dec 25 Featured Candlelight Concert: The Lord of the Rings Howard Shore's Lord of the Rings music by candlelight in Ginza on Christmas Day. Read more 5:00pm – 6:00pm ¥4,150 – ¥7,800 Music Ginza"
+        },
+        {
             "title": "Tim Burton’s Labyrinth",
             "description": "The weird and wonderful worlds of Edward Scissorhands, Beetlejuice, and The Nightmare Before Christmas are heading to Toyosu this winter. Tim Burton’s Labyrinth, the immersive exhibition …",
             "date": "Nov 25\n\t\t\t\t\t~\n\t\t\t\t\tFeb 21 2027",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/tim-burtons-labyrinth\/",
             "raw_text": "Nov 25 ~ Feb 21 2027 Featured Tim Burton’s Labyrinth The weird and wonderful worlds of Edward Scissorhands, Beetlejuice, and The Nightmare Before Christmas are heading to Toyosu this winter. Tim Burton’s Labyrinth, the immersive exhibition … Read more ¥2,200 – ¥10,000 Art Toyosu"
-        },
-        {
-            "title": "Koishikawa Kōrakuen Autumn Illumination 2026",
-            "description": "Explore one of the city's most beautiful parks lit up at night.",
-            "date": "Nov 13\n\t\t\t\t\t~\n\t\t\t\t\tNov 24",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/koishikawa-korakuen-autumn-illumination\/",
-            "raw_text": "Nov 13 ~ Nov 24 Koishikawa Kōrakuen Autumn Illumination 2026 Explore one of the city's most beautiful parks lit up at night. Read more 6:00pm – 9:00pm ¥1,000 (advance sales)¥1,200 (at the door) Illumination Korakuen"
         },
         {
             "title": "D.League: Japan’s Pro Dance League Live at Toyota Arena Tokyo",
@@ -50,18 +43,18 @@
             "raw_text": "Nov 25 ~ Nov 26 D.League: Japan’s Pro Dance League Live at Toyota Arena Tokyo Catch Japan's pro dance crews battling it out live, with five matches and venue-only halftime shows in one night at Toyota Arena Tokyo. Read more 6:30pm – 9:15pm ¥8,800 (advance sales) Dance Show Aomi"
         },
         {
-            "title": "Autumn Night Museums",
-            "description": "Tokyo's city-run museums are opening late in autumn.",
-            "date": "Nov 5\n\t\t\t\t\t~\n\t\t\t\t\tNov 27",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/autumn-night-museums\/",
-            "raw_text": "Nov 5 ~ Nov 27 Autumn Night Museums Tokyo's city-run museums are opening late in autumn. Read more Art Living Nature Ueno"
-        },
-        {
             "title": "Free Matcha Tasting in Asakusa",
             "description": "Free 90-minute matcha tastings at Musashi Experience Asakusa, just four spots per session.",
             "date": "Nov 26\n\t\t\t\t\t~\n\t\t\t\t\tNov 27",
             "link": "https:\/\/tokyocheapo.com\/events\/events\/free-matcha-tasting-in-asakusa\/",
             "raw_text": "Nov 26 ~ Nov 27 Free Matcha Tasting in Asakusa Free 90-minute matcha tastings at Musashi Experience Asakusa, just four spots per session. Read more 12:00pm – 7:30pm Free Food Workshop Asakusa"
+        },
+        {
+            "title": "Autumn Night Museums",
+            "description": "Tokyo's city-run museums are opening late in autumn.",
+            "date": "Nov 5\n\t\t\t\t\t~\n\t\t\t\t\tNov 27",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/autumn-night-museums\/",
+            "raw_text": "Nov 5 ~ Nov 27 Autumn Night Museums Tokyo's city-run museums are opening late in autumn. Read more Art Living Nature Ueno"
         },
         {
             "title": "Doburoku Festival",
@@ -74,7 +67,7 @@
             "title": "Shimokitazawa Flea Market",
             "description": "Find your next dream flea market treasure at this trendy market in Shimokitazawa.",
             "date": "Nov 26\n\t\t\t\t\t~\n\t\t\t\t\tNov 27",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/shimokitazawa-flea-market\/20261126\/",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shimokitazawa-flea-market\/",
             "raw_text": "Nov 26 ~ Nov 27 Shimokitazawa Flea Market Find your next dream flea market treasure at this trendy market in Shimokitazawa. Read more 12:00pm – 5:00pm Free Market Shimokitazawa"
         },
         {
@@ -85,24 +78,31 @@
             "raw_text": "Sat, Nov 28 Bee Kind: Anti-Bullying Workshop Free Minecraft Education workshop on bullying and empathy for kids. Read more 9:30am – 11:30am Free Gaming Workshop Shibaura"
         },
         {
+            "title": "Shibuya Vintage & Artisan Market",
+            "description": "Browse through racks of one-of-a-kind vintage fashion, discover handmade candles, accessories, and home decor, or dig through rare rock and movie posters.",
+            "date": "Sat, Nov\n\t\t\t\t28",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shibuya-vintage-artisan-market\/",
+            "raw_text": "Sat, Nov 28 Shibuya Vintage & Artisan Market Browse through racks of one-of-a-kind vintage fashion, discover handmade candles, accessories, and home decor, or dig through rare rock and movie posters. Read more 12:00pm – 5:00pm Free Market Shibuya"
+        },
+        {
             "title": "Naritasan Kawagoe Betsuin Flea Market",
             "description": "Hunt for bargains in Little Edo.",
             "date": "Sat, Nov\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/naritasan-kawagoe-betsuin-flea-market\/20261128\/",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/naritasan-kawagoe-betsuin-flea-market\/",
             "raw_text": "Sat, Nov 28 Naritasan Kawagoe Betsuin Flea Market Hunt for bargains in Little Edo. Read more 6:00am – 2:00pm Free Market Kawagoe"
         },
         {
             "title": "Tomioka Hachimangū Shrine Antique Fair & Flea Market",
             "description": "The antique fair leans toward curated, higher-value items, while the flea market is more eclectic.",
             "date": "Sat, Nov\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tomioka-hachimangu-markets\/20261128\/",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tomioka-hachimangu-markets\/",
             "raw_text": "Sat, Nov 28 Tomioka Hachimangū Shrine Antique Fair & Flea Market The antique fair leans toward curated, higher-value items, while the flea market is more eclectic. Read more 8:00am – 3:00pm Free Market Fukagawa"
         },
         {
             "title": "Tokyo River Clean-Up",
             "description": "Enjoy some small talk and the feeling of warmth for doing your part to keep Tokyo's rivers clean and beautiful.",
             "date": "Sat, Nov\n\t\t\t\t28",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-river-clean\/20261128\/",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/tokyo-river-clean\/",
             "raw_text": "Sat, Nov 28 Tokyo River Clean-Up Enjoy some small talk and the feeling of warmth for doing your part to keep Tokyo's rivers clean and beautiful. Read more Free Volunteering Edogawa"
         },
         {
@@ -113,32 +113,18 @@
             "raw_text": "Sat, Nov 28 Weekend Comedy at TCB ★ Staff recommendation Tokyo Comedy Bar offers some of the best chuckles in Tokyo. Read more 7:30pm – 10:00pm ¥3,000 (advance sales) Comedy Shibuya"
         },
         {
-            "title": "NHK Trophy 2026: ISU Grand Prix Figure Skating in Tokyo",
-            "description": "Grand Prix figure skating, bouquets on the ice, and an English ticket route for overseas fans.",
-            "date": "Nov 27\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/nhk-trophy-isu-grand-prix-figure-skating\/",
-            "raw_text": "Nov 27 ~ Nov 29 NHK Trophy 2026: ISU Grand Prix Figure Skating in Tokyo Grand Prix figure skating, bouquets on the ice, and an English ticket route for overseas fans. Read more 12:35pm – 10:00pm ¥4,000 – ¥18,000 Sport Chofu"
+            "title": "Fuji-Kawaguchiko Fall Leaves Festival",
+            "description": "Revel in a traditional Japanese festival under the autumn leaves. Crowds will flock to the food, performances and illuminations.",
+            "date": "Nov 7\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/fuji-kawaguchiko-fall-leaves-festival\/",
+            "raw_text": "Nov 7 ~ Nov 29 Fuji-Kawaguchiko Fall Leaves Festival Revel in a traditional Japanese festival under the autumn leaves. Crowds will flock to the food, performances and illuminations. Read more 9:00am – 9:00pm Free Festival Kawaguchi"
         },
         {
-            "title": "Hibiya Art Park 2026: Timeless Phenomena",
-            "description": "Three artists, works scattered around a central Tokyo park, and no ticket needed.",
-            "date": "Nov 13\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hibiya-art-park\/",
-            "raw_text": "Nov 13 ~ Nov 29 Hibiya Art Park 2026: Timeless Phenomena Three artists, works scattered around a central Tokyo park, and no ticket needed. Read more 9:00am – 9:00pm Free Hibiya"
-        },
-        {
-            "title": "Legend Research: Pokémon Statue Trail in Nihonbashi and Yaesu",
-            "description": "19 legendary Pokémon statues by Tokyo Station, free to see; the puzzle trail costs extra.",
-            "date": "Sep 9\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/legend-research-nihonbashi-yaesu\/",
-            "raw_text": "Sep 9 ~ Nov 29 Legend Research: Pokémon Statue Trail in Nihonbashi and Yaesu 19 legendary Pokémon statues by Tokyo Station, free to see; the puzzle trail costs extra. Read more Free Anime Nihonbashi Yaesu"
-        },
-        {
-            "title": "Roof Park Art Fes on the KK Line (Tokyo Sky Corridor)",
-            "description": "Glowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.",
-            "date": "Nov 21\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/roof-park-art-fes-kk-line\/",
-            "raw_text": "Nov 21 ~ Nov 29 Roof Park Art Fes on the KK Line (Tokyo Sky Corridor) Glowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights. Read more 5:00pm – 8:30pm ¥800 – ¥1,500 Festival Show Ginza Shimbashi"
+            "title": "Kunisada & Kuniyoshi: Shinjuku Kabukichō Shunga Exhibition",
+            "description": "Edo-period erotic art in the middle of Kabukichō, open until 9 p.m.",
+            "date": "Oct 3\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/shinjuku-kabukicho-shunga-exhibition\/",
+            "raw_text": "Oct 3 ~ Nov 29 Kunisada & Kuniyoshi: Shinjuku Kabukichō Shunga Exhibition Edo-period erotic art in the middle of Kabukichō, open until 9 p.m. Read more ¥1,200 – ¥2,200 Art Shinjuku"
         },
         {
             "title": "Shōwa Kinen Park Autumn Night Walk",
@@ -148,18 +134,32 @@
             "raw_text": "Oct 29 ~ Nov 29 Shōwa Kinen Park Autumn Night Walk Shōwa Kinen Park invites the public for a nighttime stroll to see their ginkgo trees lit up in peak fall colors. Read more 4:30pm – 8:30pm ¥450 – ¥1,750 Illumination Nature Tachikawa"
         },
         {
-            "title": "Hanazono Shrine Antique Market",
-            "description": "Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets.",
-            "date": "Sun, Nov\n\t\t\t\t29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/hanazono-antique-market\/",
-            "raw_text": "Sun, Nov 29 Hanazono Shrine Antique Market Blue skies are the perfect time to visit this small antique fair. Enjoy some casual browsing without the pressure and noise of the larger markets. Read more 7:00am – 4:00pm Free Market Shinjuku"
+            "title": "Roof Park Art Fes on the KK Line (Tokyo Sky Corridor)",
+            "description": "Glowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights.",
+            "date": "Nov 21\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/roof-park-art-fes-kk-line\/",
+            "raw_text": "Nov 21 ~ Nov 29 Roof Park Art Fes on the KK Line (Tokyo Sky Corridor) Glowing sculptures and a timber-and-acrobats circus on Ginza's retired expressway, open on foot for nine nights. Read more 5:00pm – 8:30pm ¥800 – ¥1,500 Festival Show Ginza Shimbashi"
         },
         {
-            "title": "Takao Beer Mount",
-            "description": "Takao Beer Mount is easily the highest beer garden in Tokyo.",
-            "date": "May 30\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
-            "link": "https:\/\/tokyocheapo.com\/events\/events\/mt-takao-beer-mount\/",
-            "raw_text": "May 30 ~ Nov 29 Takao Beer Mount Takao Beer Mount is easily the highest beer garden in Tokyo. Read more 12:00pm – 9:00pm ¥500 – ¥5,000 Beer Food Hachiōji"
+            "title": "Hibiya Art Park 2026: Timeless Phenomena",
+            "description": "Three artists, works scattered around a central Tokyo park, and no ticket needed.",
+            "date": "Nov 13\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/hibiya-art-park\/",
+            "raw_text": "Nov 13 ~ Nov 29 Hibiya Art Park 2026: Timeless Phenomena Three artists, works scattered around a central Tokyo park, and no ticket needed. Read more 9:00am – 9:00pm Free Hibiya"
+        },
+        {
+            "title": "NHK Trophy 2026: ISU Grand Prix Figure Skating in Tokyo",
+            "description": "Grand Prix figure skating, bouquets on the ice, and an English ticket route for overseas fans.",
+            "date": "Nov 27\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/nhk-trophy-isu-grand-prix-figure-skating\/",
+            "raw_text": "Nov 27 ~ Nov 29 NHK Trophy 2026: ISU Grand Prix Figure Skating in Tokyo Grand Prix figure skating, bouquets on the ice, and an English ticket route for overseas fans. Read more 12:35pm – 10:00pm ¥4,000 – ¥18,000 Sport Chofu"
+        },
+        {
+            "title": "Legend Research: Pokémon Statue Trail in Nihonbashi and Yaesu",
+            "description": "19 legendary Pokémon statues by Tokyo Station, free to see; the puzzle trail costs extra.",
+            "date": "Sep 9\n\t\t\t\t\t~\n\t\t\t\t\tNov 29",
+            "link": "https:\/\/tokyocheapo.com\/events\/events\/legend-research-nihonbashi-yaesu\/",
+            "raw_text": "Sep 9 ~ Nov 29 Legend Research: Pokémon Statue Trail in Nihonbashi and Yaesu 19 legendary Pokémon statues by Tokyo Station, free to see; the puzzle trail costs extra. Read more Free Anime Nihonbashi Yaesu"
         },
         {
             "title": "Sengoku Warlords Expo 2026",
@@ -170,5 +170,5 @@
         }
     ],
     "count": 24,
-    "generated_at": "2026-11-24T15:21:54+00:00"
+    "generated_at": "2026-11-25T15:03:06+00:00"
 }
